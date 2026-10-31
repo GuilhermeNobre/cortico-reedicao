@@ -11,9 +11,9 @@ história, o ritmo e o olhar naturalista de Aluísio Azevedo.
   Os diálogos continuam com travessão (—).
 - **Nomes de pessoas, lugares e apelidos** (João Romão, Bertoleza, Rita Baiana,
   Cabeça-de-Gato, Botafogo, Rua do Hospício).
-- **Marcas da época** que fazem parte do mundo do livro: mil-réis, contos de réis,
-  vintém, braça, palmo, escravidão, alforria, cortiço, estalagem, quitanda, venda.
-  Quando a palavra for pouco conhecida, ela vai para o glossário (`docs/glossario.md`).
+- **A moeda da época** (réis, mil-réis, conto, vintém, tostão), que não tem equivalente atual,
+  e o que ainda é compreensível hoje (escravidão, alforria, cortiço, quitanda, venda).
+  Os demais termos de época são traduzidos (ver "O que atualizar").
 - **As imagens naturalistas** (comparações com bichos, cheiros, calor, lama) e o tom
   irônico do narrador. Elas são o coração do livro.
 - **O que o narrador e os personagens pensam e dizem**, inclusive o preconceito, com o mesmo
