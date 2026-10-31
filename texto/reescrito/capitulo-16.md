@@ -1,12 +1,12 @@
 # XVI
 
-A essa hora, Piedade de Jesus ainda esperava pelo marido.
+A essas horas, Piedade de Jesus ainda esperava pelo marido.
 
-Sentada à porta de casa, impaciente, ouvira bater oito horas, oito e meia; nove, nove e meia. "Que teria acontecido, Mãe Santíssima?... O homem ainda nem estava completamente curado e saía para tomar a fresca, mal engolido o jantar, para se demorar daquele jeito?... Ele, que nunca tinha sido capaz de tolices assim!..."
+Sentada à porta de casa, impaciente, ouvira bater oito horas, oito e meia; nove, nove e meia. "Que teria acontecido, Mãe Santíssima?... O homem ainda nem estava completamente curado e saía para tomar a fresca, mal tinha engolido o jantar, para se demorar daquele jeito?... Ele, que nunca tinha sido capaz de tolices assim!..."
 
 — Dez horas! Valha-me Nosso Senhor Jesus Cristo!
 
-Foi até o portão da estalagem e perguntou a conhecidos que passavam se tinham visto Jerônimo; ninguém dava notícias dele. Saiu e correu até a esquina; um silêncio cansado bocejava naquele resto de domingo. Às dez e meia voltou para dentro, sobressaltada, com o coração saindo pela boca e o ouvido atento, para atender à primeira batida na porta. Deitou-se sem tirar a saia e sem apagar de todo a lamparina. A ceia simples, de leite fervido e queijo assado com açúcar e manteiga, ficou intacta sobre a mesa.
+Foi até o portão da estalagem e perguntou a conhecidos que passavam se tinham visto Jerônimo; ninguém dava notícias dele. Saiu e correu até a esquina; um silêncio cansado bocejava naquele resto de domingo. Às dez e meia voltou para casa, sobressaltada, com o coração saindo pela boca e o ouvido atento, para atender à primeira batida na porta. Deitou-se sem tirar a saia e sem apagar de todo a lamparina. A ceia simples, de leite fervido e queijo assado com açúcar e manteiga, ficou intacta sobre a mesa.
 
 Não conseguiu dormir: a cabeça trabalhava e espantava o sono para longe. Começou a imaginar perigos, brigas em que o seu homem levava novas navalhadas; Firmo aparecia em todas as cenas daquele delírio, e em todas havia sangue. Por fim, quando, depois de muito se virar de um lado para o outro no colchão, a infeliz ia caindo no torpor do sono, o menor ruído lá fora a fazia levantar-se de um pulo e correr até a treliça da janela. Mas não era o cavouqueiro, nem da primeira vez, nem da segunda, nem de nenhuma.
 
@@ -20,7 +20,7 @@ A chuva tinha diminuído e o vento começava a soprar com desespero. Lá de fora
 
 As vozes se calaram na mesma hora, e o silêncio foi completo; depois não se ouviu mais nada.
 
-Piedade ficou à janela. A escuridão por fim se desfez; uma claridade triste se formou no nascente e foi, aos poucos, se espalhando pelo espaço. O céu era uma argamassa cinzenta e grossa. O cortiço acordava com a moleza das segundas-feiras; ouviam-se os pigarros das ressacas de cachaça. As casinhas se abriam; vultos espreguiçados vinham, bocejando, lavar-se na bica; as chaminés começavam a fumegar; espalhava-se o cheiro do café torrado.
+Piedade ficou à janela. A escuridão por fim se desfez; uma claridade triste se formou no nascente e foi, aos poucos, se espalhando pelo espaço. O céu era uma argamassa cinzenta e grossa. O cortiço acordava com a moleza das segundas-feiras; ouviam-se os pigarros de quem tinha ressaca de cachaça. As casinhas se abriam; vultos espreguiçados vinham, bocejando, lavar-se na bica; as chaminés começavam a fumegar; espalhava-se o cheiro do café torrado.
 
 Piedade jogou um xale sobre os ombros e saiu para o pátio; a Machona, que acabava de aparecer à porta do número 7 com um berro para acordar a família inteira de uma vez, gritou para ela:
 
@@ -48,7 +48,7 @@ Piedade começou a soluçar, enxugando as lágrimas no xale de lã, enquanto a o
 
 — Talvez tenha voltado pro hospital... — ponderou Augusta, que lavava a gaiola do seu papagaio junto a uma tina.
 
-— Mas ele ontem veio de mudança... — retrucou Leandra.
+— Mas ele ontem saiu do hospital com as suas coisas... — retrucou Leandra.
 
 — E lá não se entra depois das oito da noite — acrescentou outra lavadeira.
 
@@ -116,13 +116,13 @@ Mas, no momento em que a baiana, seguida pelo menino, passava em frente à porta
 
 — Que é? — resmungou Rita, parando e virando só o rosto, já mostrando no seu jeito impaciente que não estava disposta a muita conversa.
 
-— Diga-me uma coisa — perguntou Piedade. — Você muda-se?
+— Diga-me uma coisa — perguntou Piedade. — Você vai se mudar?
 
 A mulata não esperava aquela pergunta, assim à queima-roupa; ficou calada, sem saber o que responder.
 
 — Muda-se, não é verdade? — insistiu a outra, ficando vermelha.
 
-— E o que você tem com isso? Mude-me ou não, não lhe tenho de dar satisfações! Meta-se com a sua vida! Ora esta!
+— E o que você tem com isso? Eu me mude ou não, não lhe tenho de dar satisfações! Meta-se com a sua vida! Ora esta!
 
 — Com a minha vida é que te meteste tu, cigana! — exclamou a portuguesa, sem se conter, avançando para a porta com ímpeto.
 

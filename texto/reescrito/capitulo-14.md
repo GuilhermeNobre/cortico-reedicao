@@ -24,7 +24,7 @@ Ao ver o embrulho da comida, a raiva explodiu. Deu um pontapé numa bacia de lou
 
 Depois sentou-se na cama, esperou mais algum tempo, bufando, sacudindo as pernas cruzadas, e por fim saiu, atirando para dentro do quarto um palavrão.
 
-Pela rua, no caminho, jurava que "a mulata ia pagar caro por aquela!". Uma vontade ansiosa de castigá-la ali mesmo o puxava para o cortiço de São Romão, mas ele não teve coragem de ir até lá e se contentou em rondar a estalagem. Não conseguiu vê-la; resolveu esperar até a noite para lhe mandar um recado. E vagou aborrecido pelo bairro, arrastando o seu desgosto por aquele domingo sem farra. Às duas horas da tarde, entrou no botequim do Garnisé, uma espelunca perto da praia, onde costumava beber em companhia do Porfiro. O amigo não estava. Firmo se jogou numa cadeira, pediu uma dose de cachaça e acendeu um charuto, pensativo. Um mulatinho, morador do "Cabeça-de-Gato", veio se sentar à mesma mesa e, sem rodeios, deu-lhe a notícia de que na véspera o Jerônimo tinha recebido alta do hospital.
+Pela rua, no caminho, jurava que "a mulata ia pagar caro por aquela!". Uma vontade ansiosa de castigá-la ali mesmo o puxava para o cortiço de São Romão, mas ele não teve ânimo de ir até lá e se contentou em rondar a estalagem. Não conseguiu vê-la; resolveu esperar até a noite para lhe mandar um recado. E vagou aborrecido pelo bairro, arrastando o seu desgosto por aquele domingo sem farra. Às duas horas da tarde, entrou no botequim do Garnisé, uma espelunca perto da praia, onde costumava beber em companhia do Porfiro. O amigo não estava. Firmo se jogou numa cadeira, pediu uma dose de cachaça e acendeu um charuto, pensativo. Um mulatinho, morador do "Cabeça-de-Gato", veio se sentar à mesma mesa e, sem rodeios, deu-lhe a notícia de que na véspera o Jerônimo tinha recebido alta do hospital.
 
 Firmo acordou com um sobressalto.
 
@@ -46,7 +46,7 @@ Veio outro copo, e Firmo resmungou, depois de uma pausa:
 
 — É! Não há dúvida! É por isso que a perua anda tão mudada comigo ultimamente!...
 
-E um ciúme louco, um desespero feroz explodiu dentro dele e logo cresceu como a sede de um ferido. "Ah! Ele precisava se vingar dela! Dela e dele! O desgraçado escapou da primeira, mas não ia escapar da segunda!"
+E um ciúme louco, um desespero feroz explodiu dentro dele e logo cresceu como a sede de um ferido. "Ah! Ele precisava se vingar dela! Dela e dele! O desgraçado resistiu à primeira, mas não ia escapar da segunda!"
 
 — Traz mais uma dose de cachaça! — gritou para o portuguesinho da espelunca. E acrescentou, batendo com toda a força a bengala no chão:
 
@@ -232,7 +232,7 @@ O Pataca, como se acompanhasse o pensamento do trabalhador da pedreira, disse a 
 
 — E eu estou com uma gana dele!... — acrescentou o Pataca.
 
-— Então que seja hoje mesmo! — decidiu Jerônimo. — E o dinheiro está lá em casa, quarenta pra cada um! Terminado o serviço, o dinheiro corre na hora! E depois a gente vai se fartar de vinho fino!
+— Então que seja hoje mesmo! — decidiu Jerônimo. — E o dinheiro está lá em casa, quarenta pra cada um! Depois da surra, o dinheiro vem na hora! E depois a gente vai se fartar de vinho fino!
 
 — A que horas nos encontramos? — perguntou Zé Carlos.
 
@@ -242,7 +242,7 @@ O Pataca, como se acompanhasse o pensamento do trabalhador da pedreira, disse a 
 
 O Pataca acendeu o cachimbo, e os três puseram-se a conversar animadamente sobre o efeito que aquela surra havia de produzir e sobre a cara que o cabra faria no meio de três bons cacetes. "Aí, sim, queriam ver até onde ia a farsa da navalha! Diabo de um canalha que, por qualquer 'vai tu, vou eu', já puxava logo o ferro!..."
 
-Dois trabalhadores de camiseta de malha entraram na venda, e o grupo se calou. Jerônimo acendeu um cigarro no cachimbo do Pataca e se despediu, lembrando aos companheiros a hora do encontro e atirando sobre a mesa uma moeda de níquel de duzentos réis.
+Dois trabalhadores em camisa de malha entraram na venda, e o grupo se calou. Jerônimo acendeu um cigarro no cachimbo do Pataca e se despediu, lembrando aos companheiros a hora do encontro e atirando sobre a mesa uma moeda de níquel de duzentos réis.
 
 Foi direto para o cortiço.
 
@@ -274,7 +274,7 @@ Em seguida, enfiou a mão no bolso da calça e tirou um rolo grosso de notas.
 
 — Podem beber à vontade! — disse. — Aqui ainda tem muito!
 
-E, arrumando as notas, separou oitenta mil-réis, em cédulas de vinte.
+E, arrumando as notas, separou oitenta mil-réis, em cédulas de vinte mil-réis.
 
 — Isto é o combinado! Este é sagrado! — acrescentou, guardando as cédulas no bolso do lado esquerdo.
 
@@ -292,7 +292,7 @@ O Pataca achava que agora podiam tomar um pouco de cerveja.
 
 — Eu preferia um trago de vinho branco — retrucou o terceiro.
 
-— Tudo o que quiserem! — liberou Jerônimo. — Eu também tomo um pouco de vinho. Nada disso! Que o que estamos bebendo não é dinheiro de navalhista: foi ganho no sol e na chuva, com o suor do meu rosto! É virar pra dentro sem careta, que este não pesa na consciência de ninguém!
+— Tudo o que quiserem! — concedeu Jerônimo. — Eu também tomo um pouco de vinho. Nada disso! Que o que estamos bebendo não é dinheiro de navalhista: foi ganho no sol e na chuva, com o suor do meu rosto! É virar pra dentro sem careta, que este não pesa na consciência de ninguém!
 
 — Então, à sua! — brindou Zé Carlos, assim que chegou a nova rodada. — Para que você não torne a dar trabalho a essa raça ruim dos farmacêuticos!
 
@@ -306,7 +306,7 @@ E bebeu.
 
 — À da S'ora Piedade de Jesus! — reclamou o Pataca.
 
-— Obrigado! — respondeu o trabalhador da pedreira, levantando-se. — Bem! Não vamos ficar aqui a noite toda; mãos à obra! São quase oito horas.
+— Obrigado! — respondeu o cavouqueiro, levantando-se. — Bem! Não vamos ficar aqui a noite toda; mãos à obra! São quase oito horas.
 
 Os outros dois esvaziaram de um gole o que ainda havia no fundo dos copos e também se levantaram.
 

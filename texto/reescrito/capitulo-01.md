@@ -66,7 +66,7 @@ Uma bela noite, porém, o Miranda, que era homem de sangue quente e andava entã
 
 A mulher dormia a sono solto. Miranda entrou na ponta dos pés e se aproximou da cama. “Devia voltar!...”, pensou. “Aquilo não ficava bem para ele!...” Mas o sangue latejava, reclamando-a. Ainda hesitou um instante, imóvel, contemplando-a com desejo.
 
-Estela, como se o olhar do marido lhe apalpasse o corpo, virou-se sobre o quadril esquerdo, puxando o lençol para a frente com as coxas e deixando à mostra uma nesga de nudez branca e roliça. O Miranda não conseguiu resistir e se atirou sobre ela, que, num pequeno sobressalto, mais de surpresa que de revolta, se esquivou, mas logo voltou e ficou de frente para o marido. E deixou-se agarrar pelos quadris, de olhos fechados, fingindo que continuava a dormir, sem a menor consciência de tudo aquilo.
+Estela, como se o olhar do marido lhe apalpasse o corpo, virou-se sobre o quadril esquerdo, puxando o lençol para a frente com as coxas e deixando à mostra uma nesga de nudez branca e roliça. O Miranda não conseguiu resistir e se atirou sobre ela, que, num pequeno sobressalto, mais de surpresa que de revolta, se esquivou, mas logo voltou e ficou de frente para o marido. E deixou-se agarrar pela cintura, de olhos fechados, fingindo que continuava a dormir, sem a menor consciência de tudo aquilo.
 
 Ah, ela tinha como certo que o marido, já que não teve coragem de sair de casa, mais cedo ou mais tarde ia procurá-la de novo. Conhecia o temperamento dele, forte para desejar e fraco para resistir ao desejo.
 
@@ -132,7 +132,7 @@ Miranda insistiu.
 
 — Então vai ficar com o quintal sem muro para sempre, porque o que eu tinha a dizer já disse!
 
-— Mas, homem de Deus, que diabo! Pense um pouco! Você não pode construir nada ali! Ou acha que eu vou deixar você abrir janelas para o meu quintal?!...
+— Mas, homem de Deus, que diabo! Pense um pouco! Você não pode construir nada ali! Ou acha que eu vou deixar você abrir janelas para o meu quintal?
 
 — Não preciso abrir janelas para o quintal de ninguém!
 
@@ -186,7 +186,7 @@ E toda a gentalha daquelas redondezas ia parar lá, ou então ali ao lado, no re
 
 Era João Romão quem lhes fornecia tudo, tudo, até dinheiro adiantado, quando alguém precisava. Por ali não havia trabalhador diarista cujo salário não fosse parar inteirinho nas mãos do velhaco. E sobre esse dinheiro, quase sempre emprestado aos tostões, ele cobrava juros de oito por cento ao mês, um pouco mais do que cobrava dos que garantiam a dívida com penhores de ouro ou prata.
 
-Mesmo assim, as casinhas do cortiço, à medida que iam sendo levantadas às pressas, enchiam-se logo, sem dar tempo nem de a tinta secar. Havia grande disputa para alugá-las; aquele era o melhor ponto do bairro para a gente que trabalhava. Os empregados da pedreira preferiam todos morar lá, porque ficavam a dois passos do serviço.
+Mesmo assim, as casinhas do cortiço, à medida que iam sendo construídas de qualquer jeito, enchiam-se logo, sem dar tempo nem de a tinta secar. Havia grande disputa para alugá-las; aquele era o melhor ponto do bairro para a gente que trabalhava. Os empregados da pedreira preferiam todos morar lá, porque ficavam a dois passos do serviço.
 
 O Miranda explodia de raiva.
 

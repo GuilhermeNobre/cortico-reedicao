@@ -4,11 +4,11 @@ Nessa mesma ocasião, o companheiro de Bertoleza notou que o velho Libório, dep
 
 Eram garrafas. Tirou a primeira, a segunda, meia dúzia delas. Depois puxou às pressas a coberta do catre e fez uma trouxa. Ia de novo correr para a saída, mas soltou um gemido abafado e caiu no chão sem forças, vomitando uma golfada de sangue e apertando contra o peito o misterioso embrulho.
 
-João Romão apareceu, e o velho, assim que o viu, ficou ainda mais aflito e se torceu todo sobre as garrafas, defendendo-as com o corpo inteiro, olhando apavorado e de canto de olho para o intruso, como se tivesse dado de cara com um bandido. E, a cada passo que o vendeiro avançava, o tremor e o sobressalto do velho aumentavam e lhe arrancavam da garganta grunhidos roucos de animal acuado e assustado. Duas vezes tentou se levantar; duas vezes rolou pelo chão, moribundo. João Romão advertiu-o com dureza de que qualquer demora ali seria morte certa: o incêndio avançava. Quis ajudá-lo a carregar o fardo. Libório, como única resposta, arreganhou os beiços, mostrando as gengivas sem dentes, e tentou morder a mão que o vendeiro já estendia sobre as garrafas.
+João Romão apareceu, e o velho, assim que o viu, ficou ainda mais aflito e se torceu todo sobre as garrafas, defendendo-as com o corpo inteiro, olhando apavorado e de canto de olho para o intruso, como se tivesse dado de cara com um bandido. E, a cada passo que o vendeiro avançava, o tremor e o sobressalto do velho aumentavam e lhe arrancavam da garganta grunhidos roucos de animal espancado e assustado. Duas vezes tentou se levantar; duas vezes rolou pelo chão, moribundo. João Romão advertiu-o com dureza de que qualquer demora ali seria morte certa: o incêndio avançava. Quis ajudá-lo a carregar o fardo. Libório, como única resposta, arreganhou os beiços, mostrando as gengivas sem dentes, e tentou morder a mão que o vendeiro já estendia sobre as garrafas.
 
 Mas, lá de cima, a ponta de uma língua de fogo atravessou o teto e iluminou de vermelho aquele chiqueiro miserável. Libório ainda tentou um esforço supremo, e nada conseguiu. Começou a tremer da cabeça aos pés, a tremer, a tremer, grudando-se cada vez mais à sua trouxa, e já se debatia nos estertores quando o vendeiro a arrancou das garras dele com violência. E já era tempo, porque, depois de enfiar a língua, o fogo mostrou a boca e por fim escancarou a goela devoradora.
 
-O espertalhão fugiu correndo, abraçado à sua presa, enquanto o velho, sem conseguir ficar de pé, se arrastava atrás dele com dificuldade, estrangulado de desespero senil, já sem fala, soltando uns gemidos de morte, os olhos turvos, todo roxo, os dedos crispados como as unhas de um abutre ferido.
+O espertalhão fugiu correndo, abraçado à sua presa, enquanto o velho, sem conseguir ficar de pé, se arrastava atrás dele com dificuldade, estrangulado de desespero senil, já sem fala, rosnando gemidos de morte, os olhos turvos, todo roxo, os dedos crispados como as unhas de um abutre ferido.
 
 João Romão atravessou o pátio correndo e se enfiou na sua toca para esconder o furto. Ao primeiro exame, de relance, percebeu logo que era dinheiro em papel o que havia nas garrafas. Enfiou a trouxa na prateleira de um armário velho cheio de frascos e voltou lá para fora para acompanhar o trabalho dos bombeiros.
 
@@ -22,7 +22,7 @@ O enterro da menina foi pago por Léonie, que apareceu às três da tarde, vesti
 
 O Miranda apareceu na estalagem logo de manhã, com ar pesaroso, mas superior. Deu um abraço rápido em João Romão, falou com ele em voz baixa, lamentando aquela catástrofe, mas o felicitou porque estava tudo no seguro.
 
-O vendeiro, de fato, assustado com a primeira tentativa de incêndio, tinha posto todas as suas propriedades no seguro; e o fez com tanta inspiração que agora, em vez de prejuízo, o fogo ainda ia lhe deixar lucro.
+O vendeiro, de fato, assustado com a primeira tentativa de incêndio, tinha feito seguro de todas as suas propriedades; e o fez com tanta inspiração que agora, em vez de prejuízo, o fogo ainda ia lhe deixar lucro.
 
 — Ah, ah, meu caro! Cautela e caldo de galinha nunca fizeram mal a doente!... — cochichou o dono do cortiço, rindo. — Olhe, aqueles ali é que com certeza não gostaram da brincadeira! — acrescentou, apontando para o lado onde era maior o grupo dos infelizes que cuidavam dos restos de seus cacarecos, jogados num monte.
 
@@ -32,9 +32,9 @@ E os dois vizinhos foram até o fundo do pátio, conversando em voz baixa.
 
 — Vou reconstruir tudo isto! — declarou João Romão, com um gesto enérgico que abrangia toda aquela Babilônia desmantelada.
 
-E expôs o seu projeto: pretendia aumentar a estalagem, avançando um pouco pelo capinzal. Do lado esquerdo, encostada ao muro do Miranda, levantaria uma nova fileira de casinhas, aproveitando assim parte do pátio, que não precisava ser tão grande; sobre as outras, construiria um segundo andar, com uma varanda comprida na frente, toda gradeada. Um belo negocinho, para ter ali, dando dinheiro, em vez de uma centena de cômodos, nada menos que quatrocentos a quinhentos, de doze a vinte e cinco mil-réis cada um!
+E expôs o seu projeto: pretendia aumentar a estalagem, avançando um pouco pelo capinzal. Do lado esquerdo, encostada ao muro do Miranda, levantaria uma nova fileira de casinhas, aproveitando assim parte do pátio, que não precisava ser tão grande; sobre as outras, construiria um segundo andar, com uma varanda comprida na frente, toda gradeada. Um negocinho para render dinheiro, em vez de uma centena de cômodos, nada menos que quatrocentos a quinhentos, de doze a vinte e cinco mil-réis cada um!
 
-Ah! Ele ia mostrar como se fazem as coisas bem-feitas.
+Ah! Ele ia mostrar como se fazem as coisas bem feitas.
 
 O Miranda escutava calado, olhando para ele com respeito.
 
@@ -42,7 +42,7 @@ O Miranda escutava calado, olhando para ele com respeito.
 
 E, ao sair de lá, no seu coração vulgar de homem que nunca produziu nada e passou a vida, como todo comerciante, explorando a boa-fé de uns e o trabalho intelectual de outros, levava uma grande admiração pelo vizinho. O que ainda lhe restava da antiga inveja se transformou naquele instante num entusiasmo sem limites e cego.
 
-— É um filho da mãe! — resmungava ele pela rua, a caminho do seu armazém. — É muito forte! Pena que esteja metido com aquela peste de negra! Nem sei como um homem tão esperto caiu numa besteira dessas!
+— É um filho da mãe! — resmungava ele pela rua, a caminho do seu armazém. — Tem muita força! Pena que esteja metido com aquela peste de negra! Nem sei como um homem tão esperto caiu numa tolice dessas!
 
 Só lá pelas dez e pouco da noite foi que João Romão, depois de se certificar de que Bertoleza tinha caído num sono de pedra, resolveu fazer o balanço das garrafas de Libório. O diabo é que ele também quase não se aguentava nas pernas e sentia os olhos se fechando de cansaço. Mas não conseguia sossegar sem saber exatamente quanto tinha arrancado do avarento.
 
@@ -64,4 +64,4 @@ Além disso, oito contos e seiscentos estavam em notas já prescritas. E o vende
 
 Enfim, paciência! Mas sete belos continhos, quase inteiros, iam ficar encalhados nas mãos dele. "E depois, que diabo, os outros podiam muito bem ir saindo aos poucos, com jeito... Hoje se passavam dois mil-réis, amanhã cinco. Não nas compras, mas nos trocos... Por que não? Alguém ia reclamar, mas muitos iam engolir calados... Para isso não faltavam estrangeiros e caipiras!... E, além do mais, não era crime!... Sim! Se havia roubalheira nisso, que se queixassem do governo! O governo é que era o ladrão!"
 
-— Em todo caso — arrematou ele, guardando o dinheiro bom e o ruim e se preparando para descansar —, isto já dá para começar as obras! Deixem estar, que daqui a uns dias eu mostro a vocês do que sou capaz!
+— Em todo caso — arrematou ele, guardando o dinheiro bom e o ruim e se preparando para descansar —, isto já dá para começar as obras! Deixem estar, que daqui a uns dias eu mostrarei a vocês do que sou capaz!

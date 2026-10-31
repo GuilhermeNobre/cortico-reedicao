@@ -2,13 +2,13 @@
 
 E assim foi correndo o domingo no cortiço até as três da tarde, hora em que chegou mestre Firmo, acompanhado do seu amigo Porfiro; o primeiro trazia o violão, e o outro, o cavaquinho.
 
-Firmo, o atual amante de Rita Baiana, era um mulato farrista e vaidoso, magro de corpo e ágil como um cabrito; malandro de marca, metido a sabido, cheio de conversa, e todo ele se quebrava nos seus movimentos de capoeira. Devia ter seus trinta e tantos anos, mas não parecia ter mais de vinte e poucos. Pernas e braços finos, pescoço estreito, porém forte; não tinha músculos, tinha nervos. De barba, nada além de um bigodinho crespo, petulante, onde reluzia, cheirosa, a brilhantina do barbeiro; grande cabeleira encaracolada, negra, e bem negra, repartida ao meio, escondendo parte da testa e estufando num grande topete por baixo da aba do chapéu de palha, que ele usava de lado, caído sobre a orelha esquerda.
+Firmo, o atual amante de Rita Baiana, era um mulato vaidoso e fanfarrão, magro de corpo e ágil como um cabrito; malandro de marca, metido a sabido, cheio de conversa, e todo ele se quebrava nos seus movimentos de capoeira. Devia ter seus trinta e tantos anos, mas não parecia ter mais de vinte e poucos. Pernas e braços finos, pescoço estreito, porém forte; não tinha músculos, tinha nervos. De barba, nada além de um bigodinho crespo, petulante, onde reluzia, cheirosa, a brilhantina do barbeiro; grande cabeleira encaracolada, negra, e bem negra, repartida ao meio, escondendo parte da testa e estufando numa grande topete por baixo da aba do chapéu de palha, que ele usava de lado, caído sobre a orelha esquerda.
 
 Vestia, como de costume, um paletó de lustrina preta já bastante gasto e calças apertadas nos joelhos, mas tão largas na barra que lhe engoliam os pezinhos secos e ligeiros. Não usava gravata nem colete, e sim uma camisa nova de chita e, no pescoço, protegendo o colarinho, um lenço branco e perfumado; na boca, um enorme charuto de dois vinténs e, na mão, um grosso porrete de Petrópolis, que nunca sossegava, tantas eram as voltas que ele lhe dava ao mesmo tempo entre os dedos magros e nervosos.
 
 Era torneiro de ofício, hábil e vadio; ganhava em uma semana para gastar num dia; às vezes, porém, os dados ou a roleta multiplicavam o seu dinheiro, e então ele fazia como naqueles últimos três meses: afogava-se numa boa farra com a Rita Baiana. A Rita ou outra. “O que não faltava por aí eram saias para ajudar um homem a cuspir o cobre na boca do diabo!” Nascera no Rio de Janeiro, na capital; dos doze aos vinte anos, fizera parte de diversos bandos de capoeiras; chegara a decidir eleições nos tempos do voto indireto. Deixou nome em vários bairros e recebeu abraços, presentes e palavras de gratidão de alguns chefes de partido importantes. Chamava a isso a sua época de paixão política; mas depois se desgostou do sistema de governo e renunciou às lutas eleitorais, pois nunca conseguira o emprego de contínuo numa repartição pública — o seu ideal! — Setenta mil-réis por mês: trabalho das nove às três.
 
-Aquele caso com a Rita Baiana era coisa muito complicada e vinha de longe; vinha do tempo em que ela tinha acabado de chegar da Bahia, em companhia da mãe, uma mestiça de negro com indígena, dura, capaz de arrancar as tripas do Manduca da Praia. A mãe morreu e o Firmo tomou conta da mulata; mas pouco depois se separaram por ciúme, o que, aliás, não impediu que voltassem a se juntar mais tarde, e que de novo brigassem e de novo se procurassem. Ele tinha “paixa” pela Rita, e ela, apesar de volúvel como toda mestiça, não conseguia esquecê-lo de uma vez; metia-se com outros, é verdade, de vez em quando, e o Firmo então pintava o sete, ficava fora de si, enchia-a de bofetadas, mas, afinal, ia procurá-la, ou ela a ele, e se agarravam de novo, cada vez mais ardentes, como se aquelas brigas constantes reforçassem o combustível dos seus amores.
+Aquele caso com a Rita Baiana era coisa muito complicada e vinha de longe; vinha do tempo em que ela tinha acabado de chegar da Bahia, em companhia da mãe, uma mestiça de negro com indígena, dura, capaz de arrancar as tripas do Manduca da Praia. A mãe morreu e o Firmo tomou conta da mulata; mas pouco depois se separaram por ciúme, o que, aliás, não impediu que voltassem a se juntar mais tarde, e que de novo brigassem e de novo se procurassem. Ele tinha “paixa” pela Rita, e ela, apesar de volúvel como toda mestiça, não conseguia esquecê-lo de uma vez; metia-se com outros, é verdade, de vez em quando, e o Firmo então pintava o caneco, ficava fora de si, enchia-a de bofetadas, mas, afinal, ia procurá-la, ou ela a ele, e se agarravam de novo, cada vez mais ardentes, como se aquelas brigas constantes reforçassem o combustível dos seus amores.
 
 O amigo que Firmo trazia naquele domingo, o Porfiro, era mais velho e mais escuro do que ele. Tinha o cabelo de carapinha. Tipógrafo. Os dois tipos combinavam muito, com suas calças de boca larga e seus chapéus de lado; mas o Porfiro tinha outra classe: não dispensava a sua gravata colorida, caindo em laço frouxo sobre o peito da camisa; fazia questão da sua bengalinha com cabeça de prata e da sua piteira de âmbar e espuma-do-mar, em que equilibrava um cigarro de palha.
 
@@ -34,7 +34,7 @@ Na casa de Rita Baiana, a animação era ainda maior. Firmo e Porfiro faziam o d
 
 — Que espie quantas vezes quiser! — bradou a Rita. — Então a gente não é dona de passar um domingo em casa como bem entende e com os amigos que escolher?!... Que vá pro diabo que o carregue! Eu não como nem bebo do que é dele!
 
-Os dois mulatos e o Bruno eram da mesma opinião. “Pois então! Se com aquela diversão ninguém se ofendia nem se prejudicava patife nenhum, não havia do que falar!”
+Os dois mulatos e o Bruno eram da mesma opinião. “Pois então! Se com aquela diversão não se ofendia nem se prejudicava patife nenhum, não havia de que falar!”
 
 — E que não venham implicar muito — ameaçou o Firmo —, que comigo é nove! E o trunfo é paus!
 
@@ -74,7 +74,7 @@ E via-se de relance Dona Estela, com a sua palidez de flor meio murcha, e Zulmir
 
 — Canalhas! — repetia o Miranda.
 
-O Alexandre, que fora correndo vestir a farda, apresentou-se então e disse ao negociante que não era prudente atirar insultos cá para baixo. Ninguém o tinha provocado! Se os moradores da estalagem jantavam com os amigos, lá em cima o Miranda também estava comendo com os seus convidados! Era ruim insultar, porque uma palavra puxa outra, e, se tivesse de depor na polícia, ele, Alexandre, deporia a favor de quem tivesse razão!...
+O Alexandre, que fora correndo vestir a farda, apresentou-se então e disse ao negociante que não era prudente atirar insultos cá para baixo. Ninguém o tinha provocado! Se os moradores da estalagem jantavam com os amigos, lá em cima o Miranda também estava comendo com os seus convidados! Era mau insultar, porque uma palavra puxa outra, e, se tivesse de depor na polícia, ele, Alexandre, deporia a favor de quem tivesse razão!...
 
 — Vá à fava! — respondeu o negociante, virando-lhe as costas.
 
@@ -88,7 +88,7 @@ O Miranda foi arrancado da janela com violência, e ela foi fechada logo em segu
 
 — Deixa pra lá esse grosseirão! — resmungou Porfiro, tomando o amigo pelo braço e fazendo-o voltar para a casa da mulata. — Vamos ao café, é o que é, antes que esfrie!
 
-Diante da porta de Rita tinham vindo se postar vários moradores do cortiço, trabalhadores pagos por dia, de salário baixo, pobre gente miserável, que mal conseguia matar a fome com o que ganhava. Mesmo assim, não havia entre eles um só triste. A mulata logo os convidou a comer um bocado e beber um trago. A proposta foi aceita com alegria.
+Diante da porta de Rita tinham vindo se postar vários moradores do cortiço, trabalhadores diaristas, de salário baixo, pobre gente miserável, que mal conseguia matar a fome com o que ganhava. Mesmo assim, não havia entre eles um só triste. A mulata logo os convidou a comer um bocado e beber um trago. A proposta foi aceita com alegria.
 
 E a casa dela nunca se esvaziava.
 
@@ -156,7 +156,7 @@ Albino enxugou as lágrimas e foi se sentar de novo.
 
 Enquanto isso, a noite caía, e o vento sudoeste refrescava a tarde. Bruno roncava no lugar onde tinha jantado. A Leocádia já tinha passado a perna, à vontade, por cima da de Porfiro, que a abraçava, bebendo cachaça aos cálices.
 
-Mas o Firmo lembrou que seria melhor irem lá para fora; e todos, menos o Bruno, se dispuseram a deixar a sala, enquanto o velho Libório pedia a Alexandre um cigarro para esvaziar no cachimbo. Servido, o filante sumiu logo, correndo atrás do faro de outros jantares. Rita, Augusta e Albino ficaram lavando a louça e arrumando a casa.
+Mas o Firmo lembrou que seria melhor irem lá para fora; e todos, menos o Bruno, se dispuseram a deixar a sala, enquanto o velho Libório pedia a Alexandre um cigarro para despejar no cachimbo. Servido, o filante sumiu logo, seguindo o faro de outros jantares. Rita, Augusta e Albino ficaram lavando a louça e arrumando a casa.
 
 Lá fora, o coro dos italianos se prolongava numa cadência monótona e arrastada, carregada de embriaguez. Junto à porta de várias casas, formavam-se grupos de pessoas sentadas em cadeiras ou no chão; mas a roda da Rita Baiana era a maior, porque tinha sido engrossada pelos convidados da das Dores. A fumaça dos cachimbos e dos charutos subia por toda parte. O barulho geral tinha diminuído; fazia-se a digestão; já ninguém discutia, e todos conversavam.
 
@@ -184,7 +184,7 @@ Essa novidade causou grande surpresa no grupo inteiro. Quiseram os detalhes, e o
 
 — Não! E é isso que eu acho feio...! Se ele quer casar com a menina, devia se entender com a família, e não ficar aqui embaixo fazendo-lhe gracinhas!
 
-— Sim — intrometeu-se o Firmo —, mas imagine se aquele lá, o Miranda, vai dar a filha a um estudante! Está guardando-a para um dos seus... Quem sabe até se o bruto já não tem de olho por aí algum cafezista pé de boi!... Eu sei o que é essa gente!
+— Sim — intrometeu-se o Firmo —, mas imagine se aquele lá, o Miranda, vai dar a filha a um estudante! Está guardando-a para um dos seus... Quem sabe até se o bruto já não tem de olho por aí algum cafezista pé-de-boi!... Eu sei o que é essa gente!
 
 — Por isso é que se vê tanta porcaria neste mundo de Cristo! — disse a Augusta. — Filha minha só vai se casar com quem ela bem quiser; essa história de casamento empurrado à força acaba sempre desgraçando tanto a mulher como o homem! Meu marido é pobre e é de cor, mas eu sou feliz, porque casei por gosto!
 

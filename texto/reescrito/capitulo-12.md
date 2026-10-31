@@ -2,7 +2,7 @@
 
 Pombinha se levantou de um pulo e correu para casa.
 
-No lugar onde estivera deitada, o capim verde ficou salpicado de pontos vermelhos. A mãe lavava roupa na tina; ela a chamou com insistência e entrou, toda agitada, pela casa número 15. Ali, sem dizer uma palavra, levantou a saia do vestido e mostrou a Dona Isabel a barra da camisa ensanguentada.
+No lugar onde estivera deitada, o capim verde ficou salpicado de pontos vermelhos. A mãe lavava roupa na tina; ela a chamou com insistência e entrou, toda agitada, pela casa número 15. Ali, sem dizer uma palavra, levantou a saia do vestido e mostrou a Dona Isabel as roupas de baixo ensanguentadas.
 
 — Veio?! — perguntou a velha, com um grito arrancado do fundo da alma.
 
@@ -22,7 +22,7 @@ O acontecimento abalou o coração do cortiço, e as duas receberam parabéns e 
 
 E a partir desse dia Dona Isabel mudou completamente. Até as rugas dela se alegraram; ouviam-na cantarolar de manhã, enquanto varria a casa e tirava o pó dos móveis.
 
-Mesmo assim, depois do tremendo conflito que terminou em navalhada, uma tristeza ia minando boa parte da estalagem. Já não havia as noitadas quentes de violão e dança ao ar livre. A Rita andava aborrecida e calada desde que Jerônimo foi para o hospital da Ordem; Firmo tinha sido avisado pelo vendeiro de que nunca mais pusesse os pés na casa dele, sob pena de ser entregue à polícia; Piedade, que vivia suspirando e chorando a ausência do marido, ficou ainda mais abatida depois da primeira visita que lhe fez no hospital: encontrou-o frio, sem uma palavra de ternura para ela, deixando até transparecer a impaciência para ouvir falar da outra, daquela maldita mulata dos diabos que, no fim das contas, era a única culpada de tudo aquilo e havia de ser a perdição dela e do seu homem! Quando voltou de lá, atirou-se na cama, soluçando sem alívio, e naquela noite só conseguiu pregar o olho já de madrugada. Um desgosto negro a devorava por dentro, como a tuberculose, e lhe tirava a vontade de tudo o que não fosse chorar.
+No entanto, depois do tremendo conflito que terminou em navalhada, uma tristeza ia minando boa parte da estalagem. Já não havia as noitadas quentes de violão e dança ao ar livre. A Rita andava aborrecida e calada desde que Jerônimo foi para o hospital da Ordem; Firmo tinha sido avisado pelo vendeiro de que nunca mais pusesse os pés na casa dele, sob pena de ser entregue à polícia; Piedade, que vivia suspirando e chorando a ausência do marido, ficou ainda mais abatida depois da primeira visita que lhe fez no hospital: encontrou-o frio, sem uma palavra de ternura para ela, deixando até transparecer a impaciência para ouvir falar da outra, daquela maldita mulata dos diabos que, no fim das contas, era a única culpada de tudo aquilo e havia de ser a perdição dela e do seu homem! Quando voltou de lá, atirou-se na cama, soluçando sem alívio, e naquela noite só conseguiu pregar o olho já de madrugada. Um desgosto negro a devorava por dentro, como lesões de tuberculose, e lhe tirava a vontade de tudo o que não fosse chorar.
 
 Outro que também, coitado, arrastava uma vida muito triste era o Bruno. A mulher, que no começo não lhe fizera grande falta, agora o torturava com a distância; um mês depois da separação, o infeliz já não conseguia esconder o sofrimento e se consumia de saudade. A Bruxa, a pedido dele, leu a sorte nas cartas e lhe disse, com ar de mistério, que Leocádia ainda o amava.
 
@@ -54,7 +54,7 @@ E continuou a elogiar a bondade da moça, enquanto ela, muito prestativa, arruma
 
 — Vamos lá, Bruno! O que queres tu mandar dizer à Leocádia?
 
-— Diga-lhe, antes de mais nada, que aquilo que quebrei dela, que dou outro! Que ela fez mal em quebrar também o que era meu, mas que fecho os olhos! Águas passadas não movem moinho! Que sei que ela agora está desempregada e sem vintém; que está a dever para mais de mês na estalagem; mas que não precisa dar cabeçadas: que me mande cá o senhorio, que me entendo com ele. Que acho bom que ela deixe a casa da negra onde come, porque a mulher já se queixou e já disse, a quem quis ouvir, que aquilo lá não era ponto de vadios e mulheres de má vida! Que ela, se tivesse um pouco de tino, nem precisava estar às migalhas dos outros, que eu na forja fazia para a trazer de barriga cheia e mais aos filhos que Deus mandasse... — Começava a se exaltar. — Que a culpada de tudo isto é só ela e mais ninguém! Tivesse um bocado de juízo e não precisava envergonhar a cara por aí...
+— Diga-lhe, antes de mais nada, que aquilo que quebrei dela, que dou outro! Que ela fez mal em quebrar também o que era meu, mas que fecho os olhos! Águas passadas não movem moinho! Que sei que ela agora está desempregada e aos paus; que está a dever para mais de mês na estalagem; mas que não precisa dar cabeçadas: que me mande cá o senhorio, que me entendo com ele. Que acho bom que ela deixe a casa da negra onde come, porque a mulher já se queixou e já disse, a quem quis ouvir, que aquilo lá não era ponto de vadios e mulheres de má vida! Que ela, se tivesse um pouco de tino, nem precisava estar às migalhas dos outros, que eu na forja fazia para a trazer de barriga cheia e mais aos filhos que Deus mandasse... — Começava a se exaltar. — Que a culpada de tudo isto é só ela e mais ninguém! Tivesse um bocado de juízo e não precisava envergonhar a cara por aí...
 
 — Isso já está dito, Bruno!
 

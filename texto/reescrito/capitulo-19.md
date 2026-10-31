@@ -4,7 +4,7 @@ Dias depois, de fato, o cortiço entrou em obras. À desordem da remoção do en
 
 Os que ficaram sem casa foram alojados de qualquer jeito, por todos os cantos, à espera dos novos cômodos. Ninguém se mudou para o "Cabeça-de-Gato".
 
-As obras começaram pelo lado esquerdo do cortiço, o lado do Miranda; os antigos moradores tinham preferência e vantagens nos preços. Um dos italianos feridos morreu na Santa Casa de Misericórdia, e o outro, também lá, ainda corria risco de vida. Bruno se internara no hospital da Ordem religiosa de que era irmão, e Leocádia, que não quisera atender àquela carta escrita por Pombinha, resolveu ir visitar o seu homem no hospital. Que alegria enorme para o infeliz a volta da mulher, aquela mulher endiabrada, mas de carne firme, de quem ele, apesar de tudo, gostava muito. Com a visita, os dois se reconciliaram, chorando, e Leocádia decidiu voltar para o São Romão e viver de novo com o marido. Agora se fazia de muito séria e ameaçava de pancada quem lhe fizesse propostas atrevidas.
+As obras começaram pelo lado esquerdo do cortiço, o lado do Miranda; os antigos moradores tinham preferência e vantagens nos preços. Um dos italianos feridos morreu na Santa Casa de Misericórdia, e o outro, também lá, ainda corria risco de vida. Bruno se internara no hospital da Ordem religiosa de que era irmão, e Leocádia, que não quisera atender àquela carta escrita por Pombinha, resolveu ir visitar o seu homem no hospital. Que alegria enorme para o infeliz a volta da mulher, aquela mulher endiabrada, mas de carne firme, de quem ele, apesar de tudo, gostava muito. Com a visita, os dois se reconciliaram, chorando, e Leocádia decidiu voltar para o São Romão e viver de novo com o marido. Agora se mostrava muito séria e ameaçava de pancada quem lhe fizesse propostas atrevidas.
 
 Piedade, essa, é que se levantou das febres completamente transformada. Não parecia a mesma depois do abandono de Jerônimo: emagrecera demais, perdera as cores do rosto, ficara feia, triste e resmungona; mas não se queixava, e ninguém a ouvia falar no nome do marido.
 
@@ -94,7 +94,7 @@ Tempos depois, Senhorinha entregou à mãe uma conta de seis meses de mensalidad
 
 Foi procurar o marido; já sabia onde ele morava. Jerônimo, envergonhado, não quis recebê-la; mandou dizer que não estava em casa. Ela insistiu; declarou que não sairia dali sem falar com ele; disse bem alto que não tinha ido lá por ele, mas pela filha, que corria o risco de ser expulsa do colégio; ia para saber que destino devia dar a ela, porque agora a menina estava grande demais para ser abandonada na roda dos enjeitados!
 
-Jerônimo apareceu por fim, com o ar triste de um viciado envergonhado que não tem coragem de largar o vício. A mulher, ao vê-lo, perdeu logo toda a energia com que chegara e se comoveu tanto que as lágrimas lhe saltaram dos olhos às primeiras palavras que disse a ele. E ele baixou os seus e ficou lívido diante daquela figura envelhecida, de pele murcha, de cabelos sujos e grisalhos. Não parecia a mesma! Como estava mudada! E tratou-a com brandura, quase pedindo perdão, a voz muito espremida no aperto da garganta.
+Jerônimo apareceu por fim, com o ar triste de um viciado envergonhado que não tem coragem de largar o vício. A mulher, ao vê-lo, perdeu logo toda a energia com que chegara e se comoveu tanto que as lágrimas lhe saltaram dos olhos às primeiras palavras que disse a ele. E ele baixou os olhos e ficou lívido diante daquela figura envelhecida, de pele murcha, de cabelos sujos e grisalhos. Não parecia a mesma! Como estava mudada! E tratou-a com brandura, quase pedindo perdão, a voz muito espremida no aperto da garganta.
 
 — Minha pobre velha... — balbuciou, pousando a mão larga na cabeça dela.
 
@@ -146,7 +146,7 @@ Sentaram-se à mesa às quatro horas e começaram a comer com disposição, carr
 
 Piedade desatou a soluçar.
 
-— Aí está! — berrou o marido, levantando-se e dando um murro forte na mesa. — E aturem-na! Por mais que um homem não se queira zangar, há de estourar à força! Ora bolas!
+— Aí está! — berrou o marido, levantando-se e dando um murro forte na mesa. — E aturem-na! Por mais que um homem não queira se zangar, acaba estourando! Ora bolas!
 
 Senhorinha correu para junto do pai, tentando contê-lo.
 

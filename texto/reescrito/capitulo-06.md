@@ -100,7 +100,7 @@ E correu até o lugar onde estava, aquecendo-se ao belo sol de abril, um velho d
 
 — Êh! Êh! — fez ele, quando a mulata se aproximou.
 
-— Então? — perguntou Rita, abaixando-se para tocar no ombro dele. — Quando sai o nosso negócio?... Mas você vai ter que me deixar abrir primeiro o bauzinho de lata!...
+— Então? — perguntou Rita, abaixando-se para tocar no ombro dele. — Quando é o nosso negócio?... Mas você vai ter que me deixar abrir primeiro o bauzinho de lata!...
 
 Libório riu com as gengivas, tentando apalpar as coxas da Baiana, de brincadeira, fingindo luxúria.
 
@@ -108,7 +108,7 @@ Todos acharam graça naquela palhaçada do velhinho, e então a mulata, para com
 
 E, no meio da alegria que a sua volta ao cortiço provocou, a Rita contou o que tinha aprontado durante a ausência; disse o quanto tinha festejado em Jacarepaguá, e o entrudo que tinha feito no carnaval. Três meses de folia! E, por fim, baixando a voz, cochichou às companheiras que à noite haveria um pagodinho com violão. Podiam contar com isso!
 
-Esta última notícia causou verdadeira alegria entre os ouvintes. As farras da Rita Baiana eram sempre as melhores da estalagem. Ninguém como aquele diabo de mulata para armar uma festa que ia até altas horas da madrugada, sem que a gente soubesse como a noite tinha passado tão depressa. Além disso, "era aquela fartura! Enquanto houvesse dinheiro ou crédito, ninguém morria de barriga vazia nem de goela seca!".
+Esta última notícia causou verdadeira alegria entre os ouvintes. As farras da Rita Baiana eram sempre as melhores da estalagem. Ninguém como aquele diabo de mulata para armar uma festa que ia até altas horas da madrugada, sem que a gente soubesse como a noite tinha passado tão depressa. Além disso, "era aquela generosidade! Enquanto houvesse dinheiro ou crédito, ninguém morria de barriga vazia nem de goela seca!"
 
 — Me diz uma coisa, Leocadinha! Quem são aqueles dois jururus que estão agora no 35? — perguntou ela, vendo o Jerônimo à porta de casa com a mulher.
 

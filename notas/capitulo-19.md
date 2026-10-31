@@ -14,9 +14,9 @@ Parágrafos: 100 linhas não vazias no original e na reescrita (título + 99 par
 
 | Original | Reescrita | Observação |
 | --- | --- | --- |
-| estalagem | cortiço | igual ao capítulo XVII; vale também para "uma estalagem da Cidade Nova" |
+| estalagem | estalagem | mantida nas ocorrências em que o original a emprega; não se uniformiza com “cortiço” |
 | amigo / amiga (amante) | companheiro / companheira | igual aos capítulos I e XVIII ("o amigo de Bertoleza") |
-| cavouqueiro | trabalhador da pedreira | igual à escolha de outra thread; há uma thread que manteve "cavouqueiro", o glossário precisa decidir |
+| cavouqueiro | cavouqueiro | mantido: é o ofício e o epíteto recorrente de Jerônimo, registrado no VOLP |
 | Misericórdia | Santa Casa de Misericórdia | igual ao capítulo XVIII |
 | engomadeiras | passadeiras | **novo** |
 | aboletados a trouxe e mouxe | alojados de qualquer jeito | **novo** |
@@ -45,6 +45,36 @@ Parágrafos: 100 linhas não vazias no original e na reescrita (título + 99 par
 | despache o beco | ponha-se daqui para fora | **novo** |
 | Não te rales | Não te aflijas | **novo** |
 
+## Decisões do revisor sobre os termos novos
+
+- **estalagem:** mantida nas ocorrências em que o original a emprega; “cortiço” também é mantido quando é a palavra do original. Os dois termos não são uniformizados. Glossário: sim.
+- **amigo / amiga (amante):** mantidos “companheiro / companheira”, equivalentes claros no contexto. Glossário: sim.
+- **cavouqueiro:** restaurado nas seis ocorrências; é palavra registrada no VOLP e o epíteto recorrente de Jerônimo. Glossário: sim.
+- **engomadeiras:** confirmadas “passadeiras”, como no capítulo IX. Glossário: sim.
+- **aboletados a trouxe e mouxe:** confirmado “alojados de qualquer jeito”, que conserva a improvisação e o desconforto. Glossário: não.
+- **brejeirices:** confirmadas “propostas atrevidas”, adequadas ao contexto de assédio. Glossário: não.
+- **chapéu de sol:** confirmado “guarda-sol”. Glossário: não.
+- **barro (da construção):** confirmada “argamassa”. Glossário: sim.
+- **ralhar:** confirmado “repreender”. Glossário: não.
+- **cafés do comércio:** confirmado “cafés da zona comercial”. Glossário: não.
+- **boquejar:** confirmado “cochichar”. Glossário: não.
+- **festas de arraial:** confirmadas “quermesses”. Glossário: não.
+- **cocotes** e **frege:** confirmados “cortesãs” e “restaurante”, conforme os capítulos III, IX e XI. Glossário: sim.
+- **guitarra:** confirmada “guitarra portuguesa” na primeira menção; nas demais, “guitarra”, como nos capítulos V, IX e XVI. Glossário: sim.
+- **parati:** confirmada “cachaça”. Glossário: sim.
+- **meio martelo de aguardente:** confirmado “meio copinho de aguardente”; é medida de volume, e a solução coincide com os capítulos III e VI. Glossário: sim.
+- **laranjinha:** mantida “cachaça com laranja”, como no capítulo VI. Glossário: sim.
+- **morgadinha:** confirmada “herdeirinha”. Glossário: não.
+- **roda (de enjeitar crianças):** confirmada “roda dos enjeitados”. Glossário: não.
+- **muquecas:** confirmada a grafia atual “moquecas”. Glossário: sim.
+- **pensão (do colégio):** confirmada “mensalidade”. Glossário: não.
+- **alcançado nos seus ordenados:** confirmado “com o salário comprometido”. Glossário: não.
+- **carregando no virgem:** confirmada a leitura “carregando no vinho”; o contexto é o vinho servido desde a sopa. Glossário: não.
+- **chumbados pelo vinho:** confirmado “tocados pelo vinho”. Glossário: não.
+- **mastigação:** confirmada “lenga-lenga” na fala de Jerônimo. Glossário: não.
+- **despache o beco:** confirmado “ponha-se daqui para fora”. Glossário: não.
+- **Não te rales:** confirmado “Não te aflijas”. Glossário: não.
+
 Palavras em desuso trocadas no texto corrido: alegrão → alegria enorme; levada dos diabos → endiabrada; fragor → estrondo;
 tomar tino → pegar o jeito; galantear → cortejar; obséquios → gentilezas; sobrolho carrancudo → cenho fechado;
 emprenhado de desgostos → grávido de desgostos (mantida a imagem); facínora → bandido; fátua → vã; madraça e moleirona →
@@ -70,8 +100,16 @@ espacejada pelo estribilho → interrompida pelo refrão; pitar → fumar; escan
 
 ## Dúvidas de sentido
 
-1. **"Bruno recolhera-se à Ordem de que era irmão"**: entendi que ele foi tratado no hospital da irmandade religiosa de que era membro (as ordens terceiras mantinham hospitais), o que fecha com "visitar o seu homem no hospital". Reescrito: "Bruno se internara no hospital da Ordem religiosa de que era irmão".
-2. **"Todo Botafogo sabia que eles até ai fizeram vida comum"**: "vida comum" lido como viver juntos como casal → "tinham vivido juntos".
-3. **"a outra não se conservara sã e pura?"**: "a outra" é Pombinha, a preferida anterior do cortiço; mantido sem explicitar.
-4. **"carregando no virgem"**: provavelmente "vinho virgem" (vinho puro); traduzido por "vinho". Vale conferir em outra edição.
-5. **"meio martelo"**: se o glossário decidir converter medidas de volume, é preciso confirmar o volume do martelo da época; aqui ficou "meio copinho".
+1. **"Bruno recolhera-se à Ordem de que era irmão"**: entendi que ele foi tratado no hospital da irmandade religiosa de que era membro (as ordens terceiras mantinham hospitais), o que fecha com "visitar o seu homem no hospital". Reescrito: "Bruno se internara no hospital da Ordem religiosa de que era irmão". **Decisão do revisor:** mantida a explicitação, pois torna clara a relação entre a Ordem e o hospital sem alterar o fato narrado.
+2. **"Todo Botafogo sabia que eles até ai fizeram vida comum"**: "vida comum" lido como viver juntos como casal → "tinham vivido juntos". **Decisão do revisor:** confirmada a leitura.
+3. **"a outra não se conservara sã e pura?"**: "a outra" é Pombinha, a preferida anterior do cortiço; mantido sem explicitar. **Decisão do revisor:** confirmada; não se acrescentou o nome de Pombinha ao texto.
+4. **"carregando no virgem"**: “virgem” designa o vinho servido no jantar; traduzido por “vinho”. **Decisão do revisor:** confirmada pelo contexto imediato, em que todos ficam embriagados pelo vinho.
+5. **"meio martelo"**: medida de volume para bebida; ficou “meio copinho”. **Decisão do revisor:** confirmada, em coerência com os capítulos III e VI; a regra do plano para conversão ao SI se restringe às medidas de tamanho.
+
+## Revisão
+
+- Fidelidade: “fazia-se muito séria” → “se mostrava muito séria”; a forma anterior sugeria fingimento, ausente no original.
+- Fidelidade lexical: “estalagem” foi mantida nas nove ocorrências do original; “cortiço” foi preservado nas ocorrências correspondentes. “Trabalhador da pedreira” → “cavouqueiro” nas seis ocorrências referentes a Jerônimo.
+- Clareza e pontuação: “baixou os seus” → “baixou os olhos”; ajustados “ai deles!” e “acaba estourando”.
+- Conferidos os termos novos e as dúvidas: confirmadas as soluções registradas, incluindo “vinho”, “meio copinho” e “tinham vivido juntos”.
+- As 100 unidades textuais foram confrontadas na mesma ordem; não foi identificado corte, acréscimo ou deslocamento de parágrafo.

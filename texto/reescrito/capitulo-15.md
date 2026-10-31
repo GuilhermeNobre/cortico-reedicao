@@ -66,7 +66,7 @@ Foram até o balcão.
 
 Firmo logo puxou dinheiro para pagar.
 
-— Deixa! disse o outro. A ideia foi minha!
+— Deixa! disse o outro. O convite foi meu!
 
 Mas, como Firmo insistiu, deixou que ele pagasse a despesa.
 
@@ -80,7 +80,7 @@ Beberam de novo, e o ajudante de Jerônimo observou em seguida:
 
 — Desgostos... resmungou o capoeira, sem conseguir tirar da boca a saliva que lhe grudava na língua.
 
-— Limpa o queixo, que estás babado. Desgostos de quê? Coisa de mulher, aposto!
+— Limpa o queixo, que estás com saliva nele. Desgostos de quê? Coisa de mulher, aposto!
 
 — A Rita não apareceu hoje, sabes? Não foi, e eu bem imagino por quê!
 
@@ -164,13 +164,13 @@ E pegou também o seu porrete.
 
 Então o soltaram. O capoeira, mal tocou os pés no chão, desferiu uma cabeçada, ao mesmo tempo que a primeira porretada lhe abria a nuca. Deu um grito e virou-se, cambaleando. Uma nova paulada estalou-lhe nos ombros, e outra em seguida nos rins, e outra nas coxas; outra, mais violenta, quebrou-lhe a clavícula, enquanto outra logo lhe rachava a testa, e outra lhe acertava a espinha, e outras, cada vez mais rápidas, batiam de novo nos pontos já espancados, até que se tornaram uma chuva contínua de porretadas, a que o infeliz não resistiu, rolando no chão, pingando sangue do corpo inteiro.
 
-A chuva engrossava. Ele agora, debaixo daquele bate-bate sem trégua, parecia muito menor, encolhia como se estivesse no fogo. Lembrava um rato morrendo a pauladas. Um leve tremor convulsivo era a única coisa que ainda denunciava nele um resto de vida. Os outros três não diziam uma palavra; ofegavam, batendo sempre, tomados de uma vertigem irresistível de moer bem a porrete aquela trouxa de carne mole e ensanguentada, que grunhia fracamente a seus pés. Afinal, quando já não tinham forças nenhumas para continuar batendo, arrastaram a trouxa até a ribanceira da praia e a jogaram no mar. Depois, ofegantes, saíram correndo, sem rumo, para os lados da cidade.
+A chuva engrossava. Ele agora, debaixo daquele bate-bate sem trégua, parecia muito menor, encolhia como se estivesse no fogo. Lembrava um rato morrendo a pauladas. Um leve tremor convulsivo era a única coisa que ainda denunciava nele um resto de vida. Os outros três não diziam uma palavra; ofegavam, batendo sempre, tomados de uma vertigem irresistível de moer a porretadas aquela trouxa de carne mole e ensanguentada, que grunhia fracamente a seus pés. Afinal, quando já não tinham forças nenhumas para continuar batendo, arrastaram a trouxa até a ribanceira da praia e a jogaram no mar. Depois, ofegantes, saíram correndo, sem rumo, para os lados da cidade.
 
 Agora chovia muito forte. Só pararam no Catete, junto de um quiosque; estavam encharcados; pediram cachaça e beberam como quem bebe água. Já passava das onze horas. Desceram pela Praia da Lapa; ao chegarem debaixo de um lampião, Jerônimo parou, suando apesar do aguaceiro que caía.
 
 — Aqui está para vocês, disse, tirando do bolso as quatro notas de vinte mil-réis. Duas para cada um! E agora vamos tomar alguma coisa quente num lugar seco.
 
-— Ali tem um botequim, indicou o Pataca, apontando para a Rua da Glória.
+— Ali há um botequim, indicou o Pataca, apontando para a Rua da Glória.
 
 Subiram por uma das escadinhas que ligam essa rua à praia e, pouco depois, estavam sentados em volta de uma mesa de ferro. Pediram de comer e de beber e puseram-se a conversar em voz baixa e sombria, muito cansados.
 
@@ -242,7 +242,7 @@ Ah! não tinha se enganado! Aquele homenzarrão hercúleo, com músculos de tour
 
 — Então? insistiu ele.
 
-— Sim, sim, meu cativeiro! respondeu a baiana, falando-lhe na boca; eu quero ir contigo; quero ser a tua mulata, o bem do teu coração! Tu és os meus feitiços! — E, apalpando o corpo dele: — Mas como estás ensopado! Espera! espera! o que não falta aqui é roupa de homem pra trocar!... Podias ter uma recaída, cruzes! Tira tudo isso que está alagado! Eu vou acender o fogareiro, e a gente estende em cima o que é de casimira, para poderes te vestir às cinco horas. Tira as botas! Olha só como está o chapéu! Tudo isto seca! Tudo isto seca! Mira, toma logo um gole de cachaça p’r’atalhar a friagem! Depois passa no corpo todo! Eu vou fazer café!
+— Sim, sim, meu cativeiro! respondeu a baiana, falando-lhe na boca; eu quero ir contigo; quero ser a tua mulata, o bem do teu coração! Tu és os meus feitiços! — E, apalpando o corpo dele: — Mas como estás ensopado! Espera! espera! o que não falta aqui é roupa de homem pra trocar!... Podias ter uma recaída, cruzes! Tira tudo isso que está alagado! Eu vou acender o fogareiro, e a gente estende em cima o que é de casimira, para poder se vestir às cinco horas. Tira as botas! Olha só como está o chapéu! Tudo isto seca! Tudo isto seca! Mira, toma logo um gole de cachaça p’r’atalhar a friagem! Depois passa no corpo todo! Eu vou fazer café!
 
 Jerônimo bebeu um bom gole de cachaça, trocou de roupa e deitou-se na cama de Rita.
 
@@ -250,7 +250,7 @@ Jerônimo bebeu um bom gole de cachaça, trocou de roupa e deitou-se na cama de 
 
 — Espera! espera! O café está quase pronto!
 
-E ela só foi ter com ele levando a xícara fumegante da bebida perfumada que tinha sido a mensageira dos seus amores; sentou-se na beirada da cama e, segurando o pires com uma das mãos e a xícara com a outra, ajudava-o a beber, gole por gole, enquanto os seus olhos o acariciavam, brilhando de impaciência na antecipação daquele primeiro abraço.
+E ela só foi até ele levando a xícara fumegante da bebida perfumada que tinha sido a mensageira dos seus amores; sentou-se na beirada da cama e, segurando o pires com uma das mãos e a xícara com a outra, ajudava-o a beber, gole por gole, enquanto os seus olhos o acariciavam, brilhando de impaciência na antecipação daquele primeiro abraço.
 
 Depois, arrancou a saia e, só de camisola, lançou-se sobre o seu amado, num frenesi de desejo louco.
 

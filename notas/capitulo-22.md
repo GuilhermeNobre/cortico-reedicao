@@ -24,7 +24,7 @@ Medidas de tamanho: nenhuma no capítulo. Moeda mantida (contos de réis, vinté
 | foro (gente miúda do) | fórum | **novo** |
 | farisqueira | bisbilhoteira | **novo** |
 | hóspedes (do cortiço) | inquilinos | **novo** |
-| carta de fiança | carta de fiador | **novo** |
+| carta de fiança | carta de fiança | mantida; é a forma corrente para a garantia dada por fiador |
 | artistas (ofício manual) | artesãos | **novo**; em 1890, "artista" era o artífice |
 | praticantes de secretaria | auxiliares de repartição | **novo** |
 | suíças | costeletas | **novo** |
@@ -57,10 +57,37 @@ Medidas de tamanho: nenhuma no capítulo. Moeda mantida (contos de réis, vinté
 | salsugem | escória | **novo** |
 | estalagem fluminense | estalagem carioca | **novo**; em 1890, "fluminense" designava a cidade do Rio; hoje designa o estado |
 
+## Decisões do revisor sobre os termos novos
+
+- **guarda-livros, corretores de praça, zangões, papéis e montepio:** confirmados “contador”, “corretores da Bolsa”, “atravessadores”, “títulos” e “pensão”. Glossário: sim.
+- **privilégios obtidos do governo:** confirmadas “concessões obtidas do governo”. Glossário: não.
+- **foro** e **fariqueira:** confirmados “fórum” e “bisbilhoteira”. Glossário: não.
+- **hóspedes (do cortiço):** confirmado “inquilinos”. Glossário: não.
+- **carta de fiança:** restaurada a própria expressão, hoje corrente e mais exata que “carta de fiador”. Glossário: não.
+- **artistas (ofício manual), praticantes de secretaria e oficiais (do alfaiate):** confirmados “artesãos”, “auxiliares de repartição” e “oficiais de costura”. Glossário: sim.
+- **suíças, tabuletas, cigarreiro, tabaco, pipas e bufete:** confirmados “costeletas”, “letreiros”, “fabricante de cigarros”, “fumo”, “tonéis” e “bufê”. Glossário: sim.
+- **rapariga, pagode de dança e cantarola e chinfrinadas:** confirmados “moça”, “festa de dança e cantoria” e “algazarras”. Glossário: não.
+- **cenóbio** e **decanos da estalagem:** confirmados “convento” e “moradores mais antigos”, preservando a ironia do primeiro. Glossário: não.
+- **atirar-se ao mundo:** confirmada “cair na vida”, sem atenuar a entrada de Pombinha na prostituição. Glossário: não.
+- **pneumonite** e **estar a decidir:** confirmados “pneumonia” e “estar entre a vida e a morte”. Glossário: não.
+- **artista dramático** e **cocotes:** confirmados “ator dramático” e “cortesãs”, como nos capítulos III, IX, XI e XIX. Glossário: sim.
+- **camarote de boca, gabinetes particulares e esbodegar:** confirmados “camarote junto ao palco”, “salas reservadas” e “esbanjar”. Glossário: não.
+- **cama franca:** alterada para “prostituição”; o contexto explicita o ofício, e a solução é mais clara que “cama aberta”. Glossário: não.
+- **ébria / embriaguez, aguardente, apatetada, andrajosa, brio, tarecos e salsugem:** confirmados “bêbada / embriaguez”, “cachaça”, “abobalhada”, “esfarrapada”, “amor-próprio”, “cacarecos” e “escória”. Glossário: não.
+- **estalagem fluminense:** confirmada “estalagem carioca”, como “fluminense” nos capítulos II e X. Glossário: sim.
+
 ## Dúvidas de sentido
 
-- **estalagem**: mantida como no original e na amostra do capítulo I, porque o livro usa a palavra como sinônimo de cortiço (e "Estalagem de São Romão" é nome próprio). O leitor de hoje pode entender "pousada"; vale decidir no glossário se vira "cortiço" fora do nome próprio.
-- **"a punha logo pronta"** (Piedade e a aguardente): entendido como "a deixava embriagada".
-- **"a cuja filha... votava uma simpatia"**: a filha é de Piedade (mulher de Jerônimo), e a simpatia de Pombinha por ela espelha a de Léonie por Pombinha; a reescrita mantém o paralelo sem explicitar mais do que o original.
-- **"cama franca"**: traduzido como "cama aberta", sem explicar mais; o sentido (prostituição) fica implícito, como no original.
-- "**forte em grosso**" (prosperava): entendido como "em grande escala".
+- **estalagem**: mantida como no original e na amostra do capítulo I, porque o livro usa a palavra como sinônimo de cortiço (e "Estalagem de São Romão" é nome próprio). **Decisão do revisor:** confirmada; o contexto é suficiente e a forma foi mantida nos capítulos já revisados. Glossário: sim.
+- **"a punha logo pronta"** (Piedade e a aguardente): entendido como "a deixava embriagada". **Decisão do revisor:** confirmada.
+- **"a cuja filha... votava uma simpatia"**: a filha é de Piedade (mulher de Jerônimo), e a simpatia de Pombinha por ela espelha a de Léonie por Pombinha; a reescrita mantém o paralelo sem explicitar mais do que o original. **Decisão do revisor:** confirmada.
+- **"cama franca"**: refere-se à prostituição de Pombinha. **Decisão do revisor:** alterada a reescrita para “três meses de prostituição”, que é clara sem mudar o fato narrado.
+- "**forte em grosso**" (prosperava): entendido como "em grande escala". **Decisão do revisor:** confirmada.
+
+## Revisão
+
+- Fidelidade e precisão: “calada” → “retraída”; “carta de fiador” → “carta de fiança”; “cama aberta” → “prostituição”; “mandou-a embora” → “expulsou-a”.
+- Clareza e estilo: “onde se liam” → “em que se liam”; “por trás das grades” → “dentro das grades”; “compenetrada” → “séria”; “amigada” → “envolvida”.
+- Pontuação e conexão: ajustado “zás!” e “Mesmo assim” → “Enquanto isso”.
+- Conferidos os termos novos e as dúvidas; as soluções preservam os fatos, o tom cru e a moeda do original.
+- As 10 unidades textuais foram confrontadas na mesma ordem; não foi identificado corte, acréscimo ou deslocamento.

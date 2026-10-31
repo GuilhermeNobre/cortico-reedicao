@@ -16,7 +16,7 @@ E o vendeiro ia e vinha pelo quarto, sem encontrar uma boa solução para o prob
 
 Ora, que encrenca dos diabos ele mesmo tinha armado para si!... Como poderia agora mandá-la embora assim, de uma hora para outra, se aquele demônio de negra o acompanhava havia tanto tempo e todo mundo no cortiço sabia disso?
 
-E se sentia revoltado e impotente diante daquele obstáculo tranquilo que estava lá embaixo, dormindo, fazendo-lhe em silêncio um mal horrível, perturbando estupidamente o curso da sua felicidade, atrasando, talvez sem perceber, a chegada daquele belo futuro conquistado à custa de tantas privações e sacrifícios! Que inferno!
+E se sentia revoltado e impotente diante daquele obstáculo tranquilo que estava lá embaixo, dormindo, fazendo-lhe em silêncio um mal horrível, perturbando estupidamente o curso da sua felicidade, atrasando, talvez sem ter consciência, a chegada daquele belo futuro conquistado à custa de tantas privações e sacrifícios! Que inferno!
 
 Mas bastava se lembrar da sua união com aquela brasileirinha fina e aristocrática para que um amplo quadro de vitórias se abrisse diante da impaciente avidez da sua vaidade. Em primeiro lugar, ele passava a fazer parte de uma família tradicionalmente orgulhosa, como era, segundo todos diziam, a de Dona Estela; em segundo lugar, aumentava consideravelmente os seus bens com o dote da noiva, que era rica; e, em terceiro e último, mais tarde lhe caberia tudo o que o Miranda possuía, realizando-se assim um velho sonho que o vendeiro acalentava desde o começo da sua rivalidade com o vizinho.
 
@@ -30,7 +30,7 @@ E a Bertoleza?, gritava-lhe lá de dentro uma voz insistente.
 
 — É verdade! E a Bertoleza?..., repetia o infeliz, sem interromper o seu vaivém de uma ponta à outra do quarto.
 
-Diabo! E não poder tirar logo da sua vida aquela mancha negra, apagá-la depressa, como quem tira da pele uma nódoa de lama! Que raiva ter de juntar aos voos mais brilhantes da sua ambição a ideia mesquinha e ridícula daquele concubinato inconfessável! E não conseguia deixar de pensar naquele demônio de negra, porque a maldita estava ali perto, rondando-o, ameaçadora e sombria; estava ali como o documento vivo das suas misérias, já passadas, mas ainda pulsando. Bertoleza tinha de ser esmagada, tinha de ser eliminada, porque era tudo o que havia de ruim na vida dele! Seria um crime mantê-la a seu lado! Ela era o balcão sórdido da primeira venda; era o vintenzinho de manteiga roubado no peso e embrulhado em papel pardo; era o peixe trazido da praia e vendido à noite ao lado do fogareiro, na porta da venda; era o restaurante popular imundo e o cardápio cantado em voz alta das comilanças à portuguesa; era o sono roncado num colchão fedorento, cheio de bichos; ela era a sua cúmplice e era todo o seu mal — tinha, portanto, de desaparecer! Tinha de ceder o lugar à mocinha pálida de mãos delicadas e cabelos perfumados, que era o bem, porque era o que sorria e alegrava, porque era a vida nova, a canção tocada ao piano, as flores nos vasos, as sedas e as rendas, o chá servido em porcelanas caras; era, enfim, a doce existência dos ricos, dos felizes e dos fortes, dos que herdaram sem trabalhar ou dos que, à força de esforço, conseguiram juntar dinheiro, abrindo caminho e subindo por entre o rebanho dos escrupulosos ou dos fracos. E o vendeiro tinha diante dos olhos o sorriso apaixonado da filha do Miranda; sentia ainda a leve pressão do braço delicado que se apoiara no seu, poucas horas antes, num passeio pela praia de Botafogo; respirava ainda os perfumes da menina, suaves, escolhidos e penetrantes como palavras de amor; nos seus dedos grossos, curtos, ásperos e vermelhos, guardava a impressão da carícia morna daquela mãozinha de luva que, dentro em pouco, nos prazeres garantidos do casamento, iria acariciar-lhe o corpo e os cabelos.
+Diabo! E não poder tirar logo da sua vida aquela mancha negra, apagá-la depressa, como quem tira da pele uma nódoa de lama! Que raiva ter de juntar aos voos mais brilhantes da sua ambição a ideia mesquinha e ridícula daquele concubinato inconfessável! E não conseguia deixar de pensar naquele demônio de negra, porque a maldita estava ali perto, rondando-o, ameaçadora e sombria; estava ali como o documento vivo das suas misérias, já passadas, mas ainda pulsando. Bertoleza tinha de ser esmagada, tinha de ser eliminada, porque era tudo o que havia de ruim na vida dele! Seria um crime mantê-la a seu lado! Ela era o balcão sórdido da primeira venda; era o vintenzinho de manteiga roubado no peso e embrulhado em papel pardo; era o peixe trazido da praia e vendido à noite ao lado do fogareiro, na porta da venda; era o restaurante popular imundo e o cardápio cantado em voz alta das comilanças à portuguesa; era o sono roncado num colchão fedorento, cheio de bichos; ela era a sua cúmplice e era todo o seu mal — tinha, portanto, de desaparecer! Tinha de ceder o lugar à mocinha pálida de mãos delicadas e cabelos perfumados, que era o bem, porque era aquela que sorria e alegrava, porque era a vida nova, a canção tocada ao piano, as flores nos vasos, as sedas e as rendas, o chá servido em porcelanas caras; era, enfim, a doce existência dos ricos, dos felizes e dos fortes, dos que herdaram sem trabalhar ou dos que, só com esforço, conseguiram juntar dinheiro, abrindo caminho e subindo por entre o rebanho dos escrupulosos ou dos fracos. E o vendeiro tinha diante dos olhos o sorriso apaixonado da filha do Miranda; sentia ainda a leve pressão do braço delicado que se apoiara no seu, poucas horas antes, num passeio pela praia de Botafogo; respirava ainda os perfumes da menina, suaves, escolhidos e penetrantes como palavras de amor; nos seus dedos grossos, curtos, ásperos e vermelhos, guardava a impressão da carícia morna daquela mãozinha de luva que, dentro em pouco, nos prazeres garantidos do casamento, iria acariciar-lhe o corpo e os cabelos.
 
 Mas, e a Bertoleza?...
 
@@ -90,7 +90,7 @@ Bateram quatro horas, e o desgraçado não conseguia pregar o olho; continuava m
 
 A Machona lavava roupa na sua tina, ralhando e discutindo como sempre, quando dois trabalhadores, acompanhados de um grupo barulhento de curiosos, trouxeram-lhe sobre uma tábua o cadáver ensanguentado do filho. Agostinho tinha ido, como de costume, brincar na pedreira com outros dois meninos do cortiço; saltando como cabritos pelas arestas do precipício, tinham subido a uma altura de mais de duzentos metros do chão e, de repente, ele perdeu o equilíbrio, e o infeliz rolou lá de cima, quebrando os ossos e dilacerando as carnes.
 
-Todo ele, coitadinho, era uma massa vermelha só; as pernas, quebradas no joelho, dobravam-se moles para debaixo das coxas; a cabeça, desarticulada, tinha se aberto no crânio e despejava o mingau dos miolos; numa das mãos faltavam todos os dedos, e do quadril esquerdo saía uma ponta de osso esfolada pela pedra.
+Todo ele, coitadinho, era uma massa vermelha só; as pernas, quebradas no joelho, dobravam-se moles para debaixo das coxas; a cabeça, desarticulada, tinha se aberto no crânio e despejava o mingau dos miolos; numa das mãos faltavam todos os dedos, e do quadril esquerdo saía uma ponta de osso raspada pela pedra.
 
 Foi um alvoroço no pátio quando ele chegou.
 
@@ -124,9 +124,9 @@ O vendeiro foi abrir e o levou direto para o quarto.
 
 — Mais ou menos. Não tenho andado lá muito bem...
 
-João Romão contou-lhe da morte do Agostinho e disse que estava com dor de cabeça. Não sabia que diabo tinha tido naquela noite, que não houve jeito de pegar direito no sono.
+João Romão contou-lhe da morte do Agostinho e disse que estava com dor de cabeça. Não sabia que diabo tinha naquela noite, pois não houve jeito de pegar direito no sono.
 
-— Calor..., explicou o outro. E continuou, depois de uma pausa, acendendo um cigarro: — Pois eu vim aqui falar com você... Não leve a mal, mas...
+— Calor... — explicou o outro e, depois de uma pausa, acendendo um cigarro, continuou: — Pois eu vinha aqui falar com você... Não leve a mal, mas...
 
 João Romão imaginou que o parasita ia lhe pedir dinheiro e se preparou para a defesa, queixando-se de repente de que os negócios não andavam bem; mas se calou, porque o Botelho acrescentou, com o olhar fixo nas unhas:
 
@@ -214,7 +214,7 @@ João Romão ia responder, mas Bertoleza apareceu na entrada da sala. Vinha tão
 
 — Ah! Agora não me enxergo! Agora eu não presto para nada! Mas, quando você precisou de mim, não lhe ficava mal se servir do meu corpo e sustentar a sua casa com o meu trabalho! Naquele tempo a negra servia pra um tudo; agora não presta pra mais nada, e jogam ela no monte de lixo! Não! Assim também Deus não manda! Se nem os cães velhos se enxotam, por que hão de me pôr para fora desta casa, onde eu deixei tanto suor do meu rosto?... Quer casar? Então espere primeiro que eu feche os olhos; não seja ingrato!
 
-João Romão acabou perdendo a paciência e saiu da sala, atirando um palavrão imundo na cara da amante.
+João Romão acabou perdendo a paciência e saiu da sala, atirando palavrões imundos na cara da amante.
 
 — Não vale a pena se exaltar..., cochichou-lhe o Botelho, acompanhando-o até o quarto, onde o vendeiro enterrou com toda a força o chapéu na cabeça e vestiu o paletó com a mão fechada em punho.
 
@@ -254,7 +254,7 @@ E respondeu ao Botelho:
 
 — Ela vai querer comprar a liberdade...
 
-— Pois que compre, se o dono consentir!... Você não tem mais nada a ver com isso! E, se ela voltar procurando você, despache-a logo; se insistir, vá então à autoridade e dê queixa! Ah, meu caro, essas coisas, para serem bem-feitas, fazem-se assim ou não se fazem! Repare que aquele jeito com que ela lhe falou há pouco basta para você ver que um traste desses não lhe serve dentro de casa nem mais um instante! E digo mais: já não só por causa do casamento, mas por tudo! Não seja mole!
+— Pois que compre, se o dono consentir!... Você não tem mais nada a ver com isso! E, se ela voltar procurando você, despache-a logo; se insistir, vá então à autoridade e dê queixa! Ah, meu caro, essas coisas, para serem bem-feitas, fazem-se assim ou não se fazem! Repare que aquele jeito com que ela lhe falou há pouco basta para você ver que um traste desses não convém dentro de casa nem mais um instante! E digo mais: já não só por causa do casamento, mas por tudo! Não seja mole!
 
 João Romão escutava, caminhando calado, sem mais sinal de agitação. Tinham chegado à praia.
 

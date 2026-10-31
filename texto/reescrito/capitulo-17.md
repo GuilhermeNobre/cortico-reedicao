@@ -10,7 +10,7 @@ E os outros, cantando o seu hino de guerra, entraram e foram se aproximando deva
 
 Traziam as navalhas abertas e escondidas na palma da mão.
 
-Os carapicus ocupavam metade do cortiço. Um silêncio ofegante tinha tomado o lugar da gritaria barulhenta da briga que acabara. Sentia-se o fôlego impaciente da ferocidade que lançava aqueles dois bandos de capoeiras um contra o outro. E, no entanto, o sol, o único causador de tudo aquilo, sumia de vez nos confins do horizonte, indiferente, deixando atrás de si a melancolia do crepúsculo, que é a saudade da terra quando ele se ausenta, levando consigo a alegria da luz e do calor.
+Os carapicus ocupavam metade do cortiço. Um silêncio ofegante tinha tomado o lugar da gritaria barulhenta da briga que acabara. Sentia-se o fôlego impaciente da ferocidade que lançava aqueles dois bandos de capoeiras um contra o outro. E, no entanto, o sol, o único causador de tudo aquilo, sumia de vez nos confins do horizonte, indiferente, deixando atrás de si as melancolias do crepúsculo, que são a saudade da terra quando ele se ausenta, levando consigo a alegria da luz e do calor.
 
 Lá na janela do Barão, o Botelho, entusiasmado como sempre por tudo o que cheirasse a guerra, soltava gritos de aplauso e dava ordens de comando militar.
 
@@ -20,7 +20,7 @@ Dez carapicus saíram à frente; dez cabeças-de-gato se alinharam diante deles.
 
 E a batalha começou, não mais desordenada e cega, mas com método, sob o comando de Porfiro, que, sempre cantando ou assobiando, saltava para todos os lados, sem nunca ser alcançado por ninguém.
 
-Navalhas se lançaram contra navalhas; vieram as cabeçadas e os voa-pés. Lado a lado, cada capoeira tinha pela frente um adversário de igual destreza, que respondia a cada investida com um salto de gato ou uma queda repentina que anulava o golpe. Dos dois lados, esperavam que o cansaço desequilibrasse as forças e abrisse caminho para a vitória; mas um fato veio, mais uma vez, interromper a batalha: uma enorme explosão de fogo irrompia, escancarada, de uma das casas dos fundos, a de número 88. E agora o incêndio era para valer.
+Navalhas se lançaram contra navalhas; vieram as cabeçadas e os voa-pés. Cada capoeira tinha pela frente um adversário de igual destreza, que respondia a cada investida com um salto de gato ou uma queda repentina que anulava o golpe. Dos dois lados, esperavam que o cansaço desequilibrasse as forças e abrisse caminho para a vitória; mas um fato veio, mais uma vez, interromper a batalha: uma enorme labareda de fogo se escancarava numa das casas dos fundos, a de número 88. E agora o incêndio era para valer.
 
 Os dois bandos sentiram um súbito espasmo de terror. As armas baixaram e o hino de morte se calou. Um clarão tremendo ensanguentou o ar, que logo se fechou numa fumaça alaranjada.
 
@@ -30,7 +30,7 @@ Os sinos da vizinhança começaram a badalar.
 
 E tudo era um clamor.
 
-A Bruxa surgiu na janela da sua casa, como na boca de uma fornalha acesa. Estava horrível; nunca tinha sido tão bruxa. A sua pele morena e trigueira, de cabocla velha, reluzia como metal em brasa; a sua crina preta, desgrenhada, escorrida e abundante como a das éguas selvagens, dava-lhe um aspecto fantástico de fúria saída do inferno. E ela ria, embriagada de satisfação, sem sentir as queimaduras e as feridas, vitoriosa no meio daquela orgia de fogo com que, nos últimos tempos, a sua alma extravagante de maluca vivia sonhando em segredo.
+A Bruxa surgiu na janela da sua casa, como na boca de uma fornalha acesa. Estava horrível; nunca tinha sido tão bruxa. A sua pele morena, de cabocla velha, reluzia como metal em brasa; a sua crina preta, desgrenhada, escorrida e abundante como as das éguas selvagens, dava-lhe um aspecto fantástico de fúria saída do inferno. E ela ria, embriagada de satisfação, sem sentir as queimaduras e as feridas, vitoriosa no meio daquela orgia de fogo com que, nos últimos tempos, a sua alma extravagante de maluca vivia sonhando em segredo.
 
 Ia se atirar para fora quando se ouviu estalar o madeiramento da casa incendiada, que desabou rapidamente, sepultando a louca num monte de brasas.
 
@@ -38,8 +38,8 @@ Os sinos continuavam a badalar, aflitos. Surgiam os carregadores de água com os
 
 Dentro de meia hora, o cortiço estaria reduzido a cinzas. Mas um estrondo de sinetas repicando e o silvo estridente de válvulas encheram de repente todo o quarteirão, anunciando que o Corpo de Bombeiros estava chegando.
 
-E logo em seguida surgiram carros em disparada, e um bando de demônios de blusa clara, uns armados de tochas e outros de escadinhas de ferro, tomou conta do incêndio e o dominou na mesma hora, como uma expedição mágica, sem uma palavra, sem hesitação e sem atropelo. Ao mesmo tempo, viram-se grossos jatos de água chicoteando o fogo por todos os lados; enquanto, sem que se soubesse como, homens mais ágeis que macacos escalavam os telhados em chamas por escadas que mal se distinguiam; e outros invadiam o coração vermelho do incêndio, disparando jatos em volta de si, girando, saltando, fazendo piruetas, até estrangularem as chamas que se lançavam ferozes contra eles, como dentro de um inferno; ao passo que outros, aqui de fora, imperturbáveis, com uma precisão de máquina moderna, fuzilavam com água todo o cortiço, casa por casa, decididos a não deixar uma só telha seca.
+E logo em seguida surgiram carros em disparada, e um bando de demônios de blusa clara, uns armados de tochas e outros de escadinhas de ferro, tomou conta do incêndio e o dominou imediatamente, como uma expedição mágica, sem uma palavra, sem hesitação e sem atropelo. Ao mesmo tempo, viram-se grossos jatos de água chicoteando o fogo por todos os lados; enquanto, sem que se soubesse como, homens mais ágeis que macacos escalavam os telhados em chamas por escadas que mal se distinguiam; e outros invadiam o coração vermelho do incêndio, disparando jatos em volta de si, girando, saltando, fazendo piruetas, até estrangularem as chamas que se lançavam ferozes contra eles, como dentro de um inferno; ao passo que outros, aqui de fora, imperturbáveis, com uma precisão de máquina moderna, fuzilavam com água toda a estalagem, casa por casa, decididos a não deixar uma só telha seca.
 
-O povo os aplaudia, entusiasmado, já esquecido do desastre e com atenção só para aquele duelo contra o incêndio. Quando um bombeiro, de cima do telhado, conseguiu sufocar uma ninhada de labaredas que surgia diante dele, explodiu aqui embaixo uma salva de palmas, e o herói se voltou para a multidão, sorrindo e agradecendo.
+O povo os aplaudia, entusiasmado, já esquecido do desastre e atento apenas àquele duelo contra o incêndio. Quando um bombeiro, de cima do telhado, conseguiu sufocar uma ninhada de labaredas que surgia diante dele, explodiu aqui embaixo uma salva de palmas, e o herói se voltou para a multidão, sorrindo e agradecendo.
 
 Algumas mulheres lhe atiravam beijos, entre gritos de ovação.

@@ -8,7 +8,7 @@ E assim, pouco a pouco, todos os seus hábitos simples de camponês português f
 
 E o curioso é que, quanto mais ele caía nos usos e costumes brasileiros, mais os seus sentidos se apuravam, embora à custa das suas forças físicas. Tinha agora o ouvido menos grosseiro para a música e compreendia até as intenções poéticas dos sertanejos quando cantam na viola os seus amores infelizes. Seus olhos, antes voltados só para a esperança de voltar à terra natal, agora, como os de um marinheiro que se acostumou aos largos horizontes de céu e mar, já não se revoltavam com a luz turbulenta, selvagem e alegre do Brasil, e se abriam amplamente diante dos maravilhosos despenhadeiros sem limite e das cordilheiras sem fim, de onde, de tempos em tempos, surge um monarca gigante, que o sol veste de ouro e de ricas pedrarias reluzentes e que as nuvens cobrem de turbantes brancos de cambraia, num luxo oriental de príncipes árabes voluptuosos.
 
-Já com a mulher, a S’ora Piedade de Jesus, a história era muito diferente. Ela, feita de um só bloco, compacta, inteiriça e fechada, recebia a influência do meio apenas por fora, no modo de viver, e continuava inalterada quanto ao moral, sem conseguir, como o marido, afinar a sua alma com a alma da nova pátria que tinham adotado. Cedia passivamente nos hábitos de vida, mas no íntimo continuava a ser a mesma imigrante saudosa e desconsolada, tão fiel às suas tradições quanto ao marido. Agora estava até mais triste: triste porque Jerônimo se tornava outro; triste porque não se passava um dia sem que ela notasse nele uma nova transformação; triste porque chegava a estranhá-lo, a desconhecê-lo, a ponto de lhe parecer que cometia um adultério quando acordava assustada, à noite, ao lado daquele homem que não parecia o seu, aquele homem que se lavava todos os dias, aquele homem que aos domingos punha perfume na barba e nos cabelos e tinha a boca cheirando a tabaco. Que desgosto pesado lhe apertou o coração na primeira vez em que o cortador de pedras, recusando o caldo que ela lhe serviu no jantar, disse:
+Já com a mulher, a S’ora Piedade de Jesus, a história era muito diferente. Ela, feita de um só bloco, compacta, inteiriça e fechada, recebia a influência do meio apenas por fora, no modo de viver, e continuava inalterada quanto ao moral, sem conseguir, como o marido, afinar a sua alma com a alma da nova pátria que tinham adotado. Cedia passivamente nos hábitos de vida, mas no íntimo continuava a ser a mesma imigrante saudosa e desconsolada, tão fiel às suas tradições quanto ao marido. Agora estava até mais triste: triste porque Jerônimo se tornava outro; triste porque não se passava um dia sem que ela notasse nele uma nova transformação; triste porque chegava a estranhá-lo, a desconhecê-lo, a ponto de lhe parecer que cometia um adultério quando acordava assustada, à noite, ao lado daquele homem que não parecia o seu, aquele homem que se lavava todos os dias, aquele homem que aos domingos punha perfume na barba e nos cabelos e tinha a boca cheirando a tabaco. Que desgosto pesado lhe apertou o coração na primeira vez em que o trabalhador da pedreira, recusando o caldo que ela lhe serviu no jantar, disse:
 
 — Ó filha, por que não experimentas tu fazer uns petiscos à moda de cá?...
 
@@ -18,7 +18,7 @@ Já com a mulher, a S’ora Piedade de Jesus, a história era muito diferente. E
 
 Esse deslizar de Jerônimo para as coisas do Brasil afligia profundamente a infeliz criatura. Era ainda o instinto feminino que a fazia prever que o marido, quando estivesse de todo brasileiro, não ia mais querê-la para nada e havia de mudar de cama, assim como tinha mudado de mesa.
 
-De fato, Jerônimo lhe pertencia muito menos agora do que antes. Mal se aproximava dela; os seus carinhos eram frios e distraídos, dados como por condescendência; já não lhe afagava os quadris quando os dois ficavam a sós, matutando na vida em comum; agora nunca era ele quem a procurava para os deveres do casamento, nunca; se ela sentia necessidade do marido, tinha de provocá-lo. E, uma noite, o coração de Piedade ficou ainda mais apertado, porque ele, a pretexto de que fazia muito calor no quarto, largou a cama e foi se deitar no sofá da salinha. Desde esse dia, não dormiram mais um ao lado do outro. O cortador de pedras arranjou uma rede e a armou diante da porta de entrada, igualzinho à que havia na casa da Rita.
+De fato, Jerônimo lhe pertencia muito menos agora do que antes. Mal se aproximava dela; os seus carinhos eram frios e distraídos, dados como por condescendência; já não lhe afagava a cintura quando os dois ficavam a sós, entretidos na vida em comum; agora nunca era ele quem a procurava para os deveres do casamento, nunca; se ela sentia necessidade do marido, tinha de provocá-lo. E, uma noite, o coração de Piedade ficou ainda mais apertado, porque ele, a pretexto de que fazia muito calor no quarto, largou a cama e foi se deitar no sofá da salinha. Desde esse dia, não dormiram mais um ao lado do outro. O trabalhador da pedreira arranjou uma rede e a armou diante da porta de entrada, igualzinho à que havia na casa da Rita.
 
 Numa outra noite, a coisa foi ainda pior. Piedade, certa de que o marido não viria até ela, foi procurá-lo; Jerônimo fingiu-se indisposto, recusou-a e acabou dizendo, afastando-a com brandura:
 
@@ -30,7 +30,7 @@ Ela desatou a soluçar. Foi uma explosão dos ressentimentos e desgostos que se 
 
 Ela continuou a soluçar, sem fôlego, arfando com o corpo todo.
 
-O cortador de pedras acrescentou, depois de um intervalo:
+O trabalhador da pedreira acrescentou, depois de um intervalo:
 
 — Então, que é isto, mulher? Pões-te agora a fazer tamanho escândalo, como se fosse coisa séria!
 
@@ -62,7 +62,7 @@ Rita tinha alojado a amiga, a princípio, na casa de umas passadeiras do Catete,
 
 — Ora, o quê! O mundo é largo! — sentenciou a baiana. — Há lugar pro gordo e há lugar pro magro! Bem tolo é quem se mata!
 
-Numa das vezes em que o cortador de pedras lhe perguntou, como de costume, pela pobrezinha de Cristo, a mulata disse que Leocádia estava grávida.
+Numa das vezes em que o trabalhador da pedreira lhe perguntou, como de costume, pela pobrezinha de Cristo, a mulata disse que Leocádia estava grávida.
 
 — Grávida? Mas então não é do marido!...
 
@@ -72,7 +72,7 @@ Numa das vezes em que o cortador de pedras lhe perguntou, como de costume, pela 
 
 — Não. Vai fazer agora, pelo São João, quatro meses certinhos.
 
-Jerônimo já não pegava na guitarra portuguesa senão para tentar acertar as modinhas que a Rita cantava. Em noite de samba, era o primeiro a chegar e o último a ir embora; e, durante a festa, ficava de queixo caído vendo a mulata dançar, distraído, bobo, esquecido de tudo, babando. E ela, consciente do feitiço que lançava sobre ele, requebrava-se e remexia-se ainda mais, dando-lhe umbigadas ou fingindo limpar-lhe a baba do queixo com a barra da saia.
+Jerônimo já não pegava na guitarra portuguesa senão para tentar acertar as modinhas que a Rita cantava. Em noite de samba, era o primeiro a chegar e o último a ir embora; e, durante a farra, ficava de queixo caído vendo a mulata dançar, distraído, bobo, esquecido de tudo, babando. E ela, consciente do feitiço que lançava sobre ele, requebrava-se e remexia-se ainda mais, dando-lhe umbigadas ou fingindo limpar-lhe a baba do queixo com a barra da saia.
 
 E os dois riam.
 
@@ -86,7 +86,7 @@ E, depois de um jogo complicado de reis, valetes e damas, que ia dispondo capric
 
 — É o diacho da Rita Baiana! — exclamou a outra. — Bem cá me palpitava por dentro! Ai, o meu rico homem!
 
-E, chorando e enxugando aflita as lágrimas no avental de cânhamo, suplicou à Bruxa, pelas almas do purgatório, que lhe remediasse tamanha desgraça.
+E, chorando e enxugando aflita as lágrimas no avental de cânhamo, suplicou à Bruxa, pelas alminhas do purgatório, que lhe remediasse tamanha desgraça.
 
 — Ai, se perco aquela criatura, S’ora Paula — lamentou a infeliz entre soluços —, nem sei o que vai ser de mim neste mundo de Cristo!... Ensine-me alguma coisa que me puxe o Jeromo!
 
@@ -94,9 +94,9 @@ A cabocla lhe disse que tomasse banho todos os dias e desse ao seu homem para be
 
 Piedade ouviu a receita em silêncio, respeitosa e atenta, com o ar compungido de quem recebe do médico uma sentença dolorosa sobre um doente querido. Em seguida, pôs na mão da feiticeira uma moeda de prata, prometendo dar-lhe coisa melhor se o remédio desse bons resultados.
 
-Mas não era só a portuguesa que se roía com a queda de Jerônimo pela mulata; era também o Firmo. Fazia tempo que ele andava com a pulga atrás da orelha e, quando passava perto do cortador de pedras, olhava-o atravessado.
+Mas não era só a portuguesa que se roía com a queda de Jerônimo pela mulata; era também o Firmo. Fazia tempo que ele andava com a pulga atrás da orelha e, quando passava perto do trabalhador da pedreira, olhava-o atravessado.
 
-O malandro ia dormir todas as noites com a Rita, mas não morava na estalagem; tinha o seu cômodo na oficina onde trabalhava. Só aos domingos ficavam juntos durante o dia, e então não abriam mão do seu jantar de farra. Uma vez, em que ele matou o serviço, o que não era raro, foi vê-la fora do horário de costume e a encontrou conversando com o português junto à tina. Passou sem dizer palavra e se recolheu ao número 9, para onde ela correu logo em seguida. Firmo não lhe disse nada sobre as suas desconfianças, mas também não escondeu o mau humor; passou a tarde inteira impertinente e resmungão. Jantou de cara amarrada e, enquanto bebiam a cachaça, depois do café, só falou de brigas, de dar cabeçadas e navalhadas, pintando-se terrível, lembrando façanhas de capoeira em que tinha sangrado tais e tais sujeitos de fama; “sem contar dois galegos que tinha mandado pras minhocas, porque isso, para ele, não era gente! — Com um par de cabeçadas boas ficavam de pés juntos para sempre!” Rita percebeu o ciúme do amante e fingiu que não tinha notado nada.
+O malandro ia dormir todas as noites com a Rita, mas não morava na estalagem; tinha o seu cômodo na oficina onde trabalhava. Só aos domingos ficavam juntos durante o dia, e então não abriam mão do seu jantar de farra. Uma vez em que ele faltou ao serviço, o que não era raro, foi vê-la fora do horário de costume e a encontrou conversando com o português junto à tina. Passou sem dizer palavra e se recolheu ao número 9, para onde ela correu logo em seguida. Firmo não lhe disse nada sobre as suas desconfianças, mas também não escondeu o mau humor; passou a tarde inteira impertinente e rabugento. Jantou de cara amarrada e, enquanto bebiam a cachaça, depois do café, só falou de brigas, de dar cabeçadas e navalhadas, pintando-se terrível, lembrando façanhas de capoeira em que tinha sangrado tais e tais sujeitos de fama; “sem contar dois galegos que tinha mandado pras minhocas, porque isso, para ele, não era gente! — Com um par de cabeçadas boas ficavam de pés juntos para sempre!” Rita percebeu o ciúme do amante e fingiu que não tinha notado nada.
 
 No dia seguinte, às seis horas da manhã, quando ele saía da casa dela, cruzou com o português, que ia para o trabalho, e o olhar que os dois trocaram já era um desafio declarado. Mesmo assim, cada um seguiu em silêncio para o seu lado.
 
@@ -232,7 +232,7 @@ Ele não respondeu.
 
 — Vamos! Vamos! Fale! Desembuche!
 
-— Ora, lixe-se! — resmungou o balconista, agora muito vermelho de raiva. — Lixe-se, não!... Mais devagar com o andor! Você vai casar: ela é menor!
+— Ora, lixe-se! — resmungou o balconista, agora muito vermelho de raiva. — Lixe-se, não!... — retrucou Marciana. — Mais devagar com o andor! Você vai casar: ela é menor!
 
 Domingos soltou um palavrão, que deixou a velha furiosa.
 
@@ -362,9 +362,9 @@ E os elogios não paravam:
 
 O pai acompanhava a filha comovido, mas sempre solene, parando a todo momento, como numa procissão, à espera de que cada um desabafasse por sua vez o entusiasmo pela criança. Silenciosamente risonho, com os olhos úmidos, estampava em toda a sua cara grande de mulato, de bigode que parecia postiço, um ar comovido e estúpido de profunda gratidão por aquela sorte, que Deus tinha dado à filha mandando-lhe do céu o ideal das madrinhas.
 
-E, enquanto Juju percorria a estalagem, levada em triunfo, Léonie, na casa da comadre, cercada por uma roda de lavadeiras e crianças, discorria sobre assuntos sérios, falando pausadamente, cheia de entonações de pessoa prática e ajuizada, condenando más ações e desatinos, aplaudindo a moral e a virtude. E aquelas mulheres, aliás tão alegres e animadas, não se atreviam, diante dela, a rir nem a levantar a voz, e conversavam com medo, cochichando, tapando a boca com a mão, travadas de respeito pela cortesã, que as dominava com a sua altivez de mulher loura vestida de seda e coberta de brilhantes. A das Dores sentiu-se orgulhosa quando Léonie lhe pousou no ombro a mãozinha enluvada e perfumada para lhe perguntar pelo seu homem. E não se cansavam de olhar para ela, de admirá-la; chegavam a examinar-lhe a roupa, a revistar-lhe as saias, a apalpar-lhe as meias, levantando-lhe o vestido, com exclamações de assombro diante de tanto luxo de rendas e bordados. A visita sorria, também comovida. Piedade declarou que a roupa de baixo da madame era tão rica quanto a de Nossa Senhora da Penha. E Nenen, no seu entusiasmo, disse que a invejava do fundo do coração, ao que a mãe lhe respondeu que não fosse besta. O Albino a contemplava em êxtase, com a mão no queixo e o cotovelo no ar. A Rita Baiana tinha levado para ela um ramalhete de rosas. Rita não se iludia com a condição daquela mulher da vida, mas lhe dava valor talvez por isso mesmo e, em parte, porque a achava de fato bonita. “Ora! Era preciso ser muito esperta e valer muito para arrancar assim da pele dos homens ricos aquela porção de joias e todo aquele luxo de roupa por dentro e por fora!”
+E, enquanto Juju percorria a estalagem, levada em triunfo, Léonie, na casa da comadre, cercada por uma roda de lavadeiras e crianças, discorria sobre assuntos sérios, falando pausadamente, cheia de entonações de pessoa prática e ajuizada, condenando más ações e desatinos, aplaudindo a moral e a virtude. E aquelas mulheres, aliás tão alegres e animadas, não se atreviam, diante dela, a rir nem a levantar a voz, e conversavam com medo, cochichando, tapando a boca com a mão, travadas de respeito pela cortesã, que as dominava com a sua altivez de mulher loura vestida de seda e coberta de brilhantes. A das Dores sentiu-se orgulhosa quando Léonie lhe pousou no ombro a mãozinha enluvada e perfumada para lhe perguntar pelo seu homem. E não se cansavam de olhar para ela, de admirá-la; chegavam a examinar-lhe a roupa, a revistar-lhe as saias, a apalpar-lhe as meias, levantando-lhe o vestido, com exclamações de assombro diante de tanto luxo de rendas e bordados. A visita sorria, também comovida. Piedade declarou que a roupa de baixo da madame era mais rica até do que a de Nossa Senhora da Penha. E Nenen, no seu entusiasmo, disse que a invejava do fundo do coração, ao que a mãe lhe respondeu que não fosse besta. O Albino a contemplava em êxtase, com a mão no queixo e o cotovelo no ar. A Rita Baiana tinha levado para ela um ramalhete de rosas. Rita não se iludia com a condição daquela mulher da vida, mas lhe dava valor talvez por isso mesmo e, em parte, porque a achava de fato bonita. “Ora! Era preciso ser muito esperta e valer muito para arrancar assim da pele dos homens ricos aquela porção de joias e todo aquele luxo de roupa por dentro e por fora!”
 
-— Não sei, filha! — pregava depois a mulata, no pátio, a uma companheira. — Seja assim ou assado, a verdade é que ela come muito bem e não lhe falta nada: sua boa casa; seu bom carro para passear à tarde; teatro toda noite; bailes quando quer e, aos domingos, corridas, regatas, festas fora da cidade e dinheiro grosso para gastar à vontade! Enfim, o que eu garanto é que esta não está sujeita, como a Leocádia e outras, a pontapés e sopapos de um bruto de marido! É dona das suas ações! Livre como o lindo amor! Senhora do seu corpinho, que ela só entrega a quem muito bem lhe der na veneta!
+— Não sei, filha! — pregava depois a mulata, no pátio, a uma companheira. — Seja assim ou assado, a verdade é que ela come muito bem e não lhe falta nada: sua boa casa; seu bom carro para passear à tarde; teatro toda noite; bailes quando quer e, aos domingos, corridas, regatas, farras fora da cidade e dinheiro grosso para gastar à vontade! Enfim, o que eu garanto é que esta não está sujeita, como a Leocádia e outras, a pontapés e tapas na nuca de um bruto de marido! É dona das suas ações! Livre como o lindo amor! Senhora do seu corpinho, que ela só entrega a quem muito bem lhe der na veneta!
 
 — E a Pombinha?... — perguntou a visita. — Ainda não apareceu!...
 
@@ -446,7 +446,7 @@ No momento em que Léonie partia de braço dado com o amante, acompanhada até o
 
 — Não vá cair o queixo!...
 
-O cortador de pedras deu de ombros com desdém.
+O trabalhador da pedreira deu de ombros com desdém.
 
 — Aquela pra cá nem pintada!
 

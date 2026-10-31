@@ -28,7 +28,7 @@ Sim, João Romão já convidava para beber alguma coisa. Mas não fazia isso à 
 
 — Ora, conta outra! Pensa que eu ainda não percebi o namoro?... Espertalhão! O vendeiro quis negar, mas o outro cortou:
 
-— É um bom partido, é! Excelente menina... tem um gênio de pomba... uma educação de princesa: até francês ela sabe! Toca piano, como você tem ouvido... canta um pouco... aprendeu desenho... costura muito bem!... e...
+— É um bom partido, é! Excelente menina... tem um gênio de pomba... uma educação de princesa: até francês ela sabe! Toca piano, como você tem ouvido... canta muito bem... aprendeu desenho... costura muito bem!... e...
 
 Baixou a voz e cochichou, com voz grossa, no ouvido do outro:
 
@@ -156,7 +156,7 @@ Não conseguiu dormir; ficou matutando:
 
 Ainda bem que não tinham filhos! Abençoadas as drogas que a Bruxa tinha dado a Bertoleza nas duas vezes em que ela se viu grávida! Mas, afinal, como ia se livrar daquele trambolho? E não ter se lembrado disso antes!... Parecia incrível!
 
-De fato, João Romão tinha vivido tão grudado à negra e tinha se acostumado tanto a vê-la ao seu lado que, nos seus devaneios de ambição, pensou em tudo, menos nela.
+De fato, João Romão tinha vivido tão ligado à negra e tinha se acostumado tanto a vê-la ao seu lado que, nos seus devaneios de ambição, pensou em tudo, menos nela.
 
 E agora?
 

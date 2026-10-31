@@ -84,7 +84,7 @@ Não era mais preciso avisar na casa da frente, porque agora o velho parasita co
 
 O jantar foi frio e constrangido; os dois se sentiam um pouco dominados por uma vaga inquietação. João Romão mal passou da sopa e logo pediu a sobremesa.
 
-Estavam tomando café quando um empregado subiu para avisar que lá embaixo havia um senhor, acompanhado de dois soldados, que queria falar com o dono da casa.
+Estavam tomando café quando um empregado subiu para avisar que lá embaixo havia um senhor, acompanhado de dois guardas, que queria falar com o dono da casa.
 
 — Já vou — respondeu este. E acrescentou para o Botelho: — São eles!
 
@@ -92,7 +92,7 @@ Estavam tomando café quando um empregado subiu para avisar que lá embaixo havi
 
 E desceram logo.
 
-— Quem está me procurando?... — perguntou João Romão em voz alta, disfarçando, ao chegar ao armazém.
+— Quem está me procurando?... — perguntou João Romão, tentando disfarçar, ao chegar ao armazém.
 
 Um homem alto, com ar de boa-vida, adiantou-se e lhe entregou uma folha de papel.
 
@@ -116,7 +116,7 @@ Reconheceu logo o filho mais velho do seu antigo senhor, e um calafrio percorreu
 
 Seu primeiro impulso foi fugir. Mas, mal correu os olhos em volta, procurando uma saída, o senhor avançou na direção dela e a segurou pelo ombro.
 
-— É esta! — disse aos soldados, que, com um gesto, ordenaram à desgraçada que os seguisse. — Prendam-na! É minha escrava!
+— É esta! — disse aos guardas, que, com um gesto, ordenaram à desgraçada que os seguisse. — Prendam-na! É minha escrava!
 
 A negra, imóvel, cercada de escamas e tripas de peixe, com uma das mãos espalmada no chão e a outra segurando a faca de cozinha, olhou para eles aterrorizada, sem piscar.
 

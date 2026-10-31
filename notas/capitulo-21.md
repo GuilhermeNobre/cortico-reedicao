@@ -15,7 +15,7 @@ Parágrafos: 138 linhas não vazias no original e na reescrita (`grep -c .`), co
 
 | Original | Tradução | Observação |
 | --- | --- | --- |
-| estalagem (o cortiço) | cortiço | **novo**. Hoje "estalagem" lembra hospedaria; no livro é sinônimo de cortiço |
+| estalagem (o cortiço) | estalagem | **novo**. Hoje "estalagem" lembra hospedaria; no livro é sinônimo de cortiço |
 | taberneiro | dono da venda | **novo** |
 | vendeiro | mantido | **novo**. Compreensível; mantido como na amostra do capítulo I |
 | alcova | quarto | **novo** |
@@ -51,11 +51,11 @@ Parágrafos: 138 linhas não vazias no original e na reescrita (`grep -c .`), co
 | mourejar (fala de Bertoleza) | trabalhar duro | já previsto no guia de estilo |
 | regalo | conforto | **novo** |
 | monturo do cisco | monte de lixo | **novo** |
-| palavrada porca | palavrão imundo | **novo** |
+| palavrada porca | palavrões imundos | **novo** |
 | encanzinar-se | se exaltar | **novo** |
 | esfuziar (pela escada) | descer como um raio | **novo** |
 | estupor (pessoa) | traste | **novo** |
-| pôr cobro a relaxamento de negro | acabar com abuso de negro | **novo**. Mantido o peso racista da fala do Botelho |
+| pôr cobro a relaxamento de negro | acabar com desleixo de negro | **novo**. Mantido o peso racista da fala do Botelho |
 | titular (nobre) | título de nobreza | **novo** |
 | a todo o pano | de velas todas abertas | **novo** |
 | que ferro! | que inferno! | **novo**. Exclamação de contrariedade |
@@ -91,3 +91,62 @@ Na fala de Bertoleza ficaram as marcas de oralidade ("seu João", "ao depois", "
   contra o peito": imagem de artilharia (pernas como canhões, seios como balas). Ficou "duas peças de
   artilharia de ferro unidas pela culatra, e o par de balas ela trazia penduradas num saco contra o peito".
 - "Mira-te naquele espelho" (fala de uma lavadeira): atualizado para "Olha-te naquele espelho", mantendo o "tu".
+
+## Decisões do revisor sobre termos novos
+
+- **estalagem:** mantida somente nas ocorrências em que o original a usa; “cortiço” também é mantido quando é a palavra do original. Os dois termos não são uniformizados. Glossário: sim.
+- **taberneiro:** confirmado “dono da venda”, alternativa contextual de “vendeiro” já adotada no capítulo I. Glossário: sim.
+- **vendeiro:** mantido; é compreensível e a alternância com “dono da venda” é contextual. Glossário: sim.
+- **alcova:** confirmado “quarto”, como nos capítulos XI e XIV. Glossário: sim.
+- **peniqueira:** confirmado “mesinha de cabeceira”, que esclarece a função sem acrescentar explicação ao texto. Glossário: sim.
+- **comua:** confirmado “latrina”. Glossário: sim.
+- **camisola (de homem):** confirmado “camisa de dormir”. Glossário: sim.
+- **chinelas:** confirmado “chinelos”. Glossário: não.
+- **enxergão:** confirmado “colchão de palha”. Glossário: sim.
+- **concubinagem:** confirmado “concubinato”. Glossário: não.
+- **aladroado:** confirmado “roubado no peso”, que preserva a acusação de fraude. Glossário: não.
+- **comezainas:** confirmado “comilanças”. Glossário: não.
+- **lista cantada:** confirmado “cardápio cantado em voz alta”. Glossário: não.
+- **a praça:** confirmado “o comércio”, no sentido dos comerciantes locais. Glossário: não.
+- **tratar-se à vela de libra:** confirmado “viver à grande”. Glossário: não.
+- **engazopar:** confirmado “enganar”. Glossário: não.
+- **entalação:** confirmado “enrascada”. Glossário: não.
+- **parvo:** confirmado “tolo”. Glossário: não.
+- **pedaço d’asno:** confirmado “asno”, preservando o insulto. Glossário: não.
+- **cabritando:** confirmado “saltando como cabritos”. Glossário: não.
+- **atassalhando:** confirmado “dilacerando”. Glossário: não.
+- **casco (da cabeça):** confirmado “crânio”. Glossário: não.
+- **pirão dos miolos:** confirmado “mingau dos miolos”, preservando a imagem alimentar. Glossário: não.
+- **síncope:** confirmado “desmaio”. Glossário: não.
+- **vagindo:** confirmado “choramingando como um recém-nascido”. Glossário: não.
+- **consumições:** confirmado “desgosto”. Glossário: não.
+- **despachar o beco:** confirmado “ir desta para melhor”, eufemismo atual para morrer. Glossário: não.
+- **cachaço:** confirmado “nuca”. Glossário: não.
+- **em val de lençóis:** confirmado “entre os lençóis”. Glossário: não.
+- **ponha-se a gosto:** confirmado “fique à vontade”. Glossário: não.
+- **escangalhar a igrejinha:** confirmado “pôr tudo a perder”. Glossário: não.
+- **sem mais aquelas:** confirmado “sem mais nem menos”. Glossário: não.
+- **fazer vida com:** confirmado “dormir com”, no sentido sexual da expressão. Glossário: não.
+- **mourejar:** confirmado “trabalhar duro”, conforme o guia de estilo. Glossário: sim.
+- **regalo:** confirmado “conforto”. Glossário: não.
+- **monturo do cisco:** confirmado “monte de lixo”. Glossário: não.
+- **palavrada porca:** ajustado para “palavrões imundos”, pois o original indica uma sequência de insultos. Glossário: não.
+- **encanzinar-se:** confirmado “se exaltar”. Glossário: não.
+- **esfuziar:** confirmado “descer como um raio”. Glossário: não.
+- **estupor (pessoa):** confirmado “traste”; em “um traste desses”, preserva a desqualificação. Glossário: não.
+- **pôr cobro a relaxamento de negro:** ajustado para “acabar com desleixo de negro”; a formulação conserva a generalização racista do personagem, que “abuso de negro” tornava ambígua. Glossário: não.
+- **titular (nobre):** confirmado “título de nobreza”. Glossário: não.
+- **a todo o pano:** confirmado “de velas todas abertas”. Glossário: não.
+- **que ferro!:** confirmado “que inferno!”. Glossário: não.
+
+## Revisão
+
+- **Fidelidade e consistência:** mantidas as ocorrências de “estalagem” do original; restituído “cortiço” no trecho do acidente, em que a substituição por “estalagem” alterava a escolha lexical do autor.
+- **Fidelidade de sentido:** “não estar disposta a ir embora” passou a “não estar disposta a morrer”, pois João Romão pensa na morte de Bertoleza.
+- **Fidelidade de tom:** “abuso de negro” passou a “desleixo de negro”, para não inverter nem atenuar o preconceito da fala de Botelho.
+- **Clareza e gramática:** corrigidos “Cheguei não faz muito tempo”, a referência singular à família, a regência de “dar sumiço a” e “jogam ela”.
+- **Pontuação e diálogo:** regularizada a intervenção de Botelho em “Calor...”.
+- **Fidelidade lexical:** “palavrão imundo” passou a “palavrões imundos”, preservando a agressão dirigida à amante; “esfolada pela pedra”, a “raspada pela pedra”; e “lugar desabitado e para alugar” foi restaurado a partir dos erros de digitalização do original.
+- **Dúvidas resolvidas:** “carapicu” ficou “joão-ninguém”, preservando o desprezo; “podengo” passou a “viver sozinho”; “idiota”, no sentido clínico da época, passou a “incapaz” no contexto do hospício; e “Mira-te” permaneceu “Olha-te”, com o tratamento por “tu”.
+
+Não restaram pontos para decisão do Guilherme.
