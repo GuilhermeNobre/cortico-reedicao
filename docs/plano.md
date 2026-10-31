@@ -7,7 +7,7 @@ Objetivo: uma nova edição com linguagem de 2026, compreensível, simples e fun
 leitor atual, seguindo a ABL e o Acordo Ortográfico de 1990, sem perder enredo, cenas, ritmo e
 o tom cru do original.
 
-Situação: **plano em revisão.** Nenhum capítulo será reescrito antes da aprovação deste plano.
+Situação: **plano aprovado em 31/10/2026.** Textos originais por capítulo prontos; a reescrita começa quando o Guilherme liberar.
 
 ---
 

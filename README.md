@@ -27,5 +27,5 @@ python scripts/extrair_capitulos.py
 | --- | --- |
 | 1. Extração do texto | feita |
 | 2. Divisão em capítulos | feita (23 capítulos) |
-| 3. Reescrita e revisão | aguardando aprovação do plano (`docs/plano.md`) |
+| 3. Reescrita e revisão | plano aprovado, aguardando liberação |
 | 4. PDF final | a fazer |
