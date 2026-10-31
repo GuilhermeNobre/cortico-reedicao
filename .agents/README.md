@@ -5,6 +5,7 @@ Tudo o que um agente (ou uma pessoa) precisa para retomar a reedição em outra 
 - `plano.md`: plano aprovado em 31/10/2026, com as etapas e a tabela de tradução dos termos da época.
 - `guia-de-estilo.md`: regras da reescrita (etapa 3.2) e da revisão (etapa 3.3).
 - `memorias/`: memórias do projeto, com o estado do trabalho e as decisões do Guilherme.
+- `skills/reeditor/SKILL.md`: skill do Reeditor, seguida pelas threads `cap.XX-Reeditor` (uma por capítulo).
 
 ## Retomar no MacBook
 
