@@ -16,8 +16,8 @@ história, o ritmo e o olhar naturalista de Aluísio Azevedo.
   Quando a palavra for pouco conhecida, ela vai para o glossário (`docs/glossario.md`).
 - **As imagens naturalistas** (comparações com bichos, cheiros, calor, lama) e o tom
   irônico do narrador. Elas são o coração do livro.
-- **O vocabulário racial e social da época** na fala do narrador e dos personagens, porque
-  ele mostra o preconceito que o próprio romance expõe. Os termos ganham explicação no glossário.
+- **O que o narrador e os personagens pensam e dizem**, inclusive o preconceito, com o mesmo
+  peso do original. Nada é suavizado, cortado ou relativizado por receio de ofender.
 
 ## O que atualizar
 
@@ -29,6 +29,8 @@ história, o ritmo e o olhar naturalista de Aluísio Azevedo.
 - **Palavras que caíram em desuso** por equivalentes atuais e precisos:
   refolhos → recantos; labutação → trabalho; mourejar → trabalhar duro;
   pândegos → farristas; arrematar em hasta pública → comprar em leilão.
+- **Termos da época** traduzidos para o equivalente atual conforme o contexto, pela tabela
+  de `docs/plano.md` (crioula → negra, caixeiro → balconista, braça → metros etc.).
 - **Frases muito longas** podem ser divididas em duas ou três, sem mudar o sentido.
 - **Pontuação** ajustada ao padrão atual (por exemplo, exclamação seguida de minúscula
   no meio da fala vira vírgula ou ponto, quando ajuda a leitura).

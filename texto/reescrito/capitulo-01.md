@@ -14,7 +14,7 @@ E o taverneiro foi ganhando de tal forma a confiança da mulher que ela, por fim
 
 Quando se deram conta, já viviam juntos.
 
-Ele propôs que morassem na mesma casa, e ela aceitou de braços abertos, feliz por se juntar de novo a um português, porque, como toda cafuza, Bertoleza não queria se sujeitar a negros e procurava por instinto um homem de uma raça que julgava superior à sua.
+Ele propôs que morassem na mesma casa, e ela aceitou de braços abertos, feliz por se juntar de novo a um português, porque, como toda cafuza, Bertoleza não queria se sujeitar a negros e procurava por instinto o homem numa raça superior à sua.
 
 Com as economias da companheira, João Romão comprou então alguns palmos de terreno do lado esquerdo da venda e levantou uma casinha de duas portas, dividida ao meio no sentido da rua: a parte da frente ficou para a quitanda, e a dos fundos virou um quarto, arrumado com os trastes de Bertoleza. Além da cama, havia uma cômoda de jacarandá muito velha, com puxadores de metal amarelo já manchados; um oratório cheio de santos, forrado de papel colorido; um baú grande de couro cru com tachas; dois banquinhos de madeira feitos de uma peça só; e um enorme cabide de pendurar na parede, coberto com sua devida colcha de retalhos de chita.
 
