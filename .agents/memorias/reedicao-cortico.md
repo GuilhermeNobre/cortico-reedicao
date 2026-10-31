@@ -18,6 +18,7 @@ Decisões do Guilherme:
 - Modelo de trabalho (2026-10-31): uma thread por capítulo, título cap.XX-Reeditor, seguindo .agents/skills/reeditor/SKILL.md (skill aprovada em 2026-10-31; ele pediu as 23 threads de uma vez, no Opus 5.5 com esforço high, partindo da branch claude/project-thread-9ivjk2). Agentes revisores vêm depois, não agora.
 - **Branches (pedido de 2026-10-31):** não criar várias branches. Quando os 23 capítulos terminarem, juntar tudo (PR #1 + PRs de capítulo) numa única branch `v1.0`; daí em diante trabalhar SOMENTE na `v1.0`.
 - Notas (2026-10-31): `notas/capitulo-NN.md` na raiz da v1.0 guarda termos novos e decisões pendentes de cada capítulo; o revisor resolve a partir delas. Branches claude/* remotas apagadas a pedido dele; só main e v1.0.
+- Revisor (2026-10-31): skill em .agents/skills/revisor/SKILL.md, aguardando aprovação; threads cap.XX-Revisor ainda NÃO abertas. Revisor trabalha direto na v1.0, sem branch nem PR, e registra decisões nas notas.
 - Mas sem suavizar nem relativizar: preconceito do narrador fica com o mesmo peso, sem "filtro woke" ou eufemismo.
 
 **Why:** ele quer controlar o plano e o tom antes do loop.

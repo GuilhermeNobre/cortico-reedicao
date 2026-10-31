@@ -6,6 +6,7 @@ Tudo o que um agente (ou uma pessoa) precisa para retomar a reedição em outra 
 - `guia-de-estilo.md`: regras da reescrita (etapa 3.2) e da revisão (etapa 3.3).
 - `memorias/`: memórias do projeto, com o estado do trabalho e as decisões do Guilherme.
 - `skills/reeditor/SKILL.md`: skill do Reeditor, seguida pelas threads `cap.XX-Reeditor` (uma por capítulo).
+- `skills/revisor/SKILL.md`: skill do Revisor textual, para as threads `cap.XX-Revisor` (uma por capítulo), que resolvem as pendências de `notas/`.
 
 ## Retomar no MacBook
 
