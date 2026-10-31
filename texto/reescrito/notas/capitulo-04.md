@@ -43,7 +43,7 @@
 
 ## Dúvidas de sentido
 
-- "comido de ferragem" (fala de Bruno): tratei como erro da fonte por "ferrugem". Conferir no PDF.
+- "comido de ferragem" (fala de Bruno): o PDF da Ática traz mesmo "ferragem"; tratei como erro da fonte por "ferrugem", que é o que o sentido pede.
 - "Descomposta" (a pedreira): entendi como "desnuda, desarrumada" e usei "Desnuda", em linha com a "nudez" da mesma frase.
 - "varal da lanterna": entendi como a haste que segura a lanterna do portão → "haste da lanterna".
-- "gente muita boa" (fala de João Romão): tratei como erro de digitação → "gente muito boa".
+- "gente muita boa" (fala de João Romão): está assim no PDF; tratei como erro de digitação → "gente muito boa".
