@@ -15,6 +15,7 @@ Decisões do Guilherme:
 - Termos da época devem ser TRADUZIDOS para equivalentes atuais conforme o contexto (crioula → negra, caixeiro → balconista, braça → metros). Ele corrigiu quando entendi "manter os termos".
 - Moeda da época fica como no original; TODAS as medidas de tamanho (braça, palmo, légua, polegada) vão para o SI. Decidido em 2026-10-31.
 - Ele não vai ler todos os capítulos e vai propor o próprio modelo de aprovação; esperar isso antes de reescrever. Capa e nota da edição ficam para depois.
+- Modelo de trabalho (2026-10-31): uma thread por capítulo, título cap.XX-Reeditor, seguindo .agents/skills/reeditor/SKILL.md (aguardando aprovação da skill). Sugeri rodar cap.01 primeiro como calibração. Agentes revisores vêm depois, não agora.
 - Mas sem suavizar nem relativizar: preconceito do narrador fica com o mesmo peso, sem "filtro woke" ou eufemismo.
 
 **Why:** ele quer controlar o plano e o tom antes do loop.
