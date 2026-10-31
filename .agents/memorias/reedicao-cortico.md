@@ -16,6 +16,7 @@ Decisões do Guilherme:
 - Moeda da época fica como no original; TODAS as medidas de tamanho (braça, palmo, légua, polegada) vão para o SI. Decidido em 2026-10-31.
 - Ele não vai ler todos os capítulos e vai propor o próprio modelo de aprovação; esperar isso antes de reescrever. Capa e nota da edição ficam para depois.
 - Modelo de trabalho (2026-10-31): uma thread por capítulo, título cap.XX-Reeditor, seguindo .agents/skills/reeditor/SKILL.md (skill aprovada em 2026-10-31; ele pediu as 23 threads de uma vez, no Opus 5.5 com esforço high, partindo da branch claude/project-thread-9ivjk2). Agentes revisores vêm depois, não agora.
+- **Branches (pedido de 2026-10-31):** não criar várias branches. Quando os 23 capítulos terminarem, juntar tudo (PR #1 + PRs de capítulo) numa única branch `v1.0`; daí em diante trabalhar SOMENTE na `v1.0`.
 - Mas sem suavizar nem relativizar: preconceito do narrador fica com o mesmo peso, sem "filtro woke" ou eufemismo.
 
 **Why:** ele quer controlar o plano e o tom antes do loop.

@@ -114,3 +114,6 @@ O revisor entrega uma lista de correções; eu aplico, e o capítulo é marcado 
 3. Aprovação dos capítulos: o Guilherme não vai ler todos; ele vai definir como será a aprovação.
    **A reescrita não começa antes disso.**
 4. Capa, nota da edição e título: decidir depois.
+5. Branches: quando os 23 capítulos estiverem reescritos, tudo (este PR e os PRs de cada capítulo)
+   é reunido numa única branch `v1.0`. A partir daí, todo o trabalho (revisão, glossário, PDF)
+   acontece só na `v1.0`, sem criar outras branches.
