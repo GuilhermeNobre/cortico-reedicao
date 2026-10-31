@@ -5,21 +5,45 @@ metadata:
   type: project
 ---
 
-Reedição de O Cortiço (Aluísio Azevedo, domínio público) a partir da edição Ática 1997 (PDF em /mnt/project-files/o-cortico.pdf, copiado para fonte/ no repo). Branch de trabalho: **v1.0** (desde 2026-10-31; antes era claude/project-thread-9ivjk2).
+Reedição de *O Cortiço* (Aluísio Azevedo, 1890, domínio público) a partir da edição Ática de 1997
+(PDF em `fonte/o-cortico.pdf`). Estado em 31/10/2026.
 
-Em 2026-10-31: extração feita com scripts/extrair_capitulos.py (pdftotext -layout; o modo layout do pypdf insere espaços no meio das palavras). 23 capítulos em texto/original/capitulo-NN.md. Plano em .agents/plano.md aprovado em 2026-10-31; originais copiados também para /mnt/project-files/reedicao/original/ (o Guilherme quer tudo no diretório do projeto E no repositório); regras em .agents/guia-de-estilo.md. Em 2026-10-31 os 23 capítulos foram reescritos (PRs #2 a #24, um por thread cap.XX-Reeditor) e reunidos na branch v1.0, com o mesmo número de parágrafos do original. Próximo passo: agentes de revisão, consolidar notas/ no glossário, depois o PDF.
+## Onde está o trabalho
 
-Decisões do Guilherme:
-- Pasta de trabalho principal: /Users/guilhermenobre/Documents/cortico-reedicao no MacBook (clone do repo, na branch v1.0), desde 2026-10-31. A pasta antiga do PC (C:\Users\gui\Documents\ProjetoCortico) não é mais usada. Toda entrega vai para o repositório e é puxada no Mac com git pull.
-- **Não reescrever nenhum capítulo antes de ele aprovar o plano.** Ele pediu para parar quando comecei o capítulo II.
-- Termos da época devem ser TRADUZIDOS para equivalentes atuais conforme o contexto (crioula → negra, caixeiro → balconista, braça → metros). Ele corrigiu quando entendi "manter os termos".
-- Moeda da época fica como no original; TODAS as medidas de tamanho (braça, palmo, légua, polegada) vão para o SI. Decidido em 2026-10-31.
-- Ele não vai ler todos os capítulos e vai propor o próprio modelo de aprovação; esperar isso antes de reescrever. Capa e nota da edição ficam para depois.
-- Modelo de trabalho (2026-10-31): uma thread por capítulo, título cap.XX-Reeditor, seguindo .agents/skills/reeditor/SKILL.md (skill aprovada em 2026-10-31; ele pediu as 23 threads de uma vez, no Opus 5.5 com esforço high, partindo da branch claude/project-thread-9ivjk2). Agentes revisores vêm depois, não agora.
-- **Branches (pedido de 2026-10-31):** não criar várias branches. Quando os 23 capítulos terminarem, juntar tudo (PR #1 + PRs de capítulo) numa única branch `v1.0`; daí em diante trabalhar SOMENTE na `v1.0`.
-- Notas (2026-10-31): `notas/capitulo-NN.md` na raiz da v1.0 guarda termos novos e decisões pendentes de cada capítulo; o revisor resolve a partir delas. Branches claude/* remotas apagadas a pedido dele; só main e v1.0.
-- Revisor (2026-10-31): skill em .agents/skills/revisor/SKILL.md, aguardando aprovação; threads cap.XX-Revisor ainda NÃO abertas. Revisor trabalha direto na v1.0, sem branch nem PR, e registra decisões nas notas.
-- Mas sem suavizar nem relativizar: preconceito do narrador fica com o mesmo peso, sem "filtro woke" ou eufemismo.
+- Repositório: GuilhermeNobre/cortico-reedicao. **Única branch de trabalho: `v1.0`.** Só existem `main` e `v1.0`;
+  as branches `claude/*` foram apagadas e os PRs #1 a #24 foram fechados (todo o conteúdo está na `v1.0`).
+- Pasta local principal: `/Users/guilhermenobre/Documents/cortico-reedicao` no MacBook (clone na `v1.0`, atualizado com `git pull`).
+  A pasta antiga do PC (`C:\Users\gui\Documents\ProjetoCortico`) não é mais usada.
+- Cópia no diretório do projeto: `/mnt/project-files/reedicao/`.
 
-**Why:** ele quer controlar o plano e o tom antes do loop.
-**How to apply:** esperar aprovação explícita antes de cada fase; seguir a tabela de termos do plano.
+## Feito
+
+1. Extração do PDF: `scripts/extrair_capitulos.py` (usa `pdftotext -layout`; o modo layout do pypdf insere espaços no meio das palavras).
+2. Divisão em capítulos: `texto/original/capitulo-01.md` a `capitulo-23.md` e `completo.txt`.
+3. Plano aprovado (`.agents/plano.md`) e guia de estilo (`.agents/guia-de-estilo.md`).
+4. Reescrita: 23 threads `cap.XX-Reeditor` (Opus 5.5, esforço high) seguindo `.agents/skills/reeditor/SKILL.md`.
+   Resultado em `texto/reescrito/capitulo-NN.md`, com o mesmo número de parágrafos do original (conferido).
+5. Notas: `notas/capitulo-NN.md` guarda os termos traduzidos, os termos **novos** e as decisões pendentes de cada capítulo, para o revisor.
+
+## Próximos passos
+
+- **Revisão:** skill do Revisor textual em `.agents/skills/revisor/SKILL.md`, **aguardando aprovação do Guilherme**.
+  Threads `cap.XX-Revisor` **ainda não abertas**. O revisor trabalha direto na `v1.0` (sem branch nem PR), mexe só no
+  capítulo e na nota dele, e marca `Glossário: sim` nos termos que valem para o livro todo.
+- Depois: consolidar o glossário a partir das notas; gerar o PDF único (Pandoc ou Typst) e publicar como Release no GitHub.
+
+## Decisões do Guilherme
+
+- Termos da época são **traduzidos** para o equivalente atual conforme o contexto (crioula → negra, caixeiro → balconista),
+  pela tabela do plano.
+- **Sem suavizar nem relativizar:** o preconceito do narrador e dos personagens fica com o mesmo peso do original,
+  sem eufemismo nem "filtro" ideológico.
+- **Moeda** da época mantida (réis, mil-réis, conto, vintém, tostão). **Todas as medidas de tamanho vão para o SI**
+  (braça ≈ 2,2 m, palmo ≈ 22 cm, légua ≈ 6 km), com valores arredondados.
+- **Capa, nota da edição e título:** decidir depois.
+- **Uma branch só (`v1.0`)**: não criar outras branches.
+- Ele não lê todos os capítulos; a aprovação é por fase (plano, skills) e a revisão fica com os agentes revisores.
+- Toda entrega vai para o repositório **e** para a pasta do Mac (ele pediu para ver os arquivos salvos lá).
+
+**Why:** ele quer controlar cada fase antes de ela começar.
+**How to apply:** não abrir threads nem iniciar uma fase sem a aprovação explícita dele; seguir o plano e as skills.
