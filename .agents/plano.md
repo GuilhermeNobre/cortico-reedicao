@@ -69,8 +69,9 @@ Reescrever seguindo as regras abaixo e gravar em `texto/reescrito/capitulo-NN.md
 | preparatórios | exames preparatórios | equivalente ao vestibular da época |
 | Lei Rio Branco | Lei do Ventre Livre | |
 | braça (≈ 2,2 m) | metros | "oitenta braças de fundo" → "uns 175 metros de fundo" |
-| palmo (≈ 22 cm) | palmo ou metros | palmo ainda é compreensível; muro de "dez palmos" → "mais de dois metros" |
+| palmo (≈ 22 cm) | centímetros ou metros | muro de "dez palmos" → "uns dois metros"; "três palmos" → "uns 70 centímetros" |
 | légua (≈ 6 km) | quilômetros | "meia légua" → "uns três quilômetros" |
+| polegada, pé, vara, outras medidas de tamanho | unidade do SI equivalente | regra geral: toda medida de tamanho vai para o SI, com valor arredondado |
 | réis, mil-réis, conto, vintém, tostão | mantidos | moeda da época, sem equivalente atual; converter para reais seria impreciso |
 
 Falas com marcas de dialeto (por exemplo, "Óia, que eu me queixo ao juiz de orfe!") ficam como
@@ -105,9 +106,11 @@ O revisor entrega uma lista de correções; eu aplico, e o capítulo é marcado 
 
 ---
 
-## Pontos para você confirmar
+## Decisões do Guilherme (31/10/2026)
 
-1. A tabela de tradução dos termos da época está como você quer?
-2. Medidas (braça, légua) convertidas para metros e quilômetros, e moeda (mil-réis) mantida?
-3. Ritmo em lotes com um pull request por lote, ou prefere aprovar capítulo por capítulo?
-4. O PDF final leva capa e nota da edição? Algum nome de editor ou título para a edição?
+1. Tabela de termos da época: aprovada.
+2. Moeda (réis, mil-réis, conto, vintém, tostão) fica como no original. Todas as medidas de
+   tamanho vão para o Sistema Internacional (metro, centímetro, quilômetro), com valores arredondados.
+3. Aprovação dos capítulos: o Guilherme não vai ler todos; ele vai definir como será a aprovação.
+   **A reescrita não começa antes disso.**
+4. Capa, nota da edição e título: decidir depois.

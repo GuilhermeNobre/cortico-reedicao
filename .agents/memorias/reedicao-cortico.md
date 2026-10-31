@@ -13,6 +13,8 @@ Decisões do Guilherme:
 - Pasta de trabalho principal: /Users/guilhermenobre/Documents/cortico-reedicao no MacBook (clone do repo, na branch claude/project-thread-9ivjk2), desde 2026-10-31. A pasta antiga do PC (C:\Users\gui\Documents\ProjetoCortico) não é mais usada. Toda entrega vai para o repositório e é puxada no Mac com git pull.
 - **Não reescrever nenhum capítulo antes de ele aprovar o plano.** Ele pediu para parar quando comecei o capítulo II.
 - Termos da época devem ser TRADUZIDOS para equivalentes atuais conforme o contexto (crioula → negra, caixeiro → balconista, braça → metros). Ele corrigiu quando entendi "manter os termos".
+- Moeda da época fica como no original; TODAS as medidas de tamanho (braça, palmo, légua, polegada) vão para o SI. Decidido em 2026-10-31.
+- Ele não vai ler todos os capítulos e vai propor o próprio modelo de aprovação; esperar isso antes de reescrever. Capa e nota da edição ficam para depois.
 - Mas sem suavizar nem relativizar: preconceito do narrador fica com o mesmo peso, sem "filtro woke" ou eufemismo.
 
 **Why:** ele quer controlar o plano e o tom antes do loop.
