@@ -30,7 +30,7 @@ história, o ritmo e o olhar naturalista de Aluísio Azevedo.
   refolhos → recantos; labutação → trabalho; mourejar → trabalhar duro;
   pândegos → farristas; arrematar em hasta pública → comprar em leilão.
 - **Termos da época** traduzidos para o equivalente atual conforme o contexto, pela tabela
-  de `docs/plano.md` (crioula → negra, caixeiro → balconista, braça → metros etc.).
+  de `.agents/plano.md` (crioula → negra, caixeiro → balconista, braça → metros etc.).
 - **Frases muito longas** podem ser divididas em duas ou três, sem mudar o sentido.
 - **Pontuação** ajustada ao padrão atual (por exemplo, exclamação seguida de minúscula
   no meio da fala vira vírgula ou ponto, quando ajuda a leitura).

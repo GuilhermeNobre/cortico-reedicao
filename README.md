@@ -11,7 +11,7 @@ Virtual do Estudante Brasileiro (Escola do Futuro/USP).
 - `scripts/extrair_capitulos.py`: extrai o texto do PDF e separa os capítulos.
 - `texto/original/`: texto original, um arquivo Markdown por capítulo (I a XXIII).
 - `texto/reescrito/`: capítulos reescritos e revisados.
-- `docs/guia-de-estilo.md`: regras da reescrita e da revisão.
+- `.agents/`: plano, guia de estilo e memórias do projeto (para retomar o trabalho em outra máquina).
 
 ## Como regenerar o texto original
 
