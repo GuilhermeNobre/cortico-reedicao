@@ -78,7 +78,7 @@ Leia, nesta ordem:
    grep -c . texto/original/capitulo-XX.md texto/reescrito/capitulo-XX.md
    ```
 
-3. Grave em `texto/reescrito/notas/capitulo-XX.md` a lista de termos e medidas que você traduziu
+3. Grave em `notas/capitulo-XX.md` a lista de termos e medidas que você traduziu
    (termo original → tradução) e qualquer dúvida de sentido. Termos que não estão na tabela do plano
    ficam marcados como **novo** para entrarem no glossário. Não edite o plano nem o glossário: várias
    threads trabalham ao mesmo tempo e as notas são consolidadas depois.

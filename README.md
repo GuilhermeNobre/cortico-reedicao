@@ -10,7 +10,8 @@ Virtual do Estudante Brasileiro (Escola do Futuro/USP).
 - `fonte/o-cortico.pdf`: PDF de origem.
 - `scripts/extrair_capitulos.py`: extrai o texto do PDF e separa os capítulos.
 - `texto/original/`: texto original, um arquivo Markdown por capítulo (I a XXIII).
-- `texto/reescrito/`: capítulos reescritos; `texto/reescrito/notas/` traz os termos traduzidos e as dúvidas de cada capítulo.
+- `texto/reescrito/`: capítulos reescritos.
+- `notas/`: uma nota por capítulo, com os termos traduzidos e as decisões pendentes para o revisor.
 - `.agents/`: plano, guia de estilo e memórias do projeto (para retomar o trabalho em outra máquina).
 
 ## Como regenerar o texto original
